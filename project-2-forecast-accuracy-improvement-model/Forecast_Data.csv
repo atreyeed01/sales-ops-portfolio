@@ -1,0 +1,970 @@
+Rep_ID,Rep_Name,Segment,Week_Ending_Date,Quarter,Forecasted_Revenue,Actual_Revenue_Closed,Pipeline_Value,Weighted_Pipeline,Deal_Count_Forecasted,Deal_Count_Closed,Forecast_Submitted_On_Time,Notes_Clean2,Low_Pipeline_Flag
+E01,James Whitfield,Enterprise,05-01-2024,Q1 2024,83501.51,80495.84,237882.83,72771.57,5,4,Yes,,OK
+E02,Sarah Thornton,Enterprise,05-01-2024,Q1 2024,101890.04,187730.93,432558.75,89293.76,3,3,Yes,Verbal commit received – awaiting paperwork,OK
+E03,Marcus Bellingham,Enterprise,05-01-2024,Q1 2024,196116.65,199835.64,773362.56,145229.87,2,6,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,05-01-2024,Q1 2024,175696.67,163648.17,673858.18,174249.1,3,3,No,,OK
+E05,Richard Cavendish,Enterprise,05-01-2024,Q1 2024,109537.6,117300.04,332070.5,109714.81,6,6,Yes,Revised following manager review,OK
+E06,Helena Forsythe,Enterprise,05-01-2024,Q1 2024,92727.32,86008.17,267249,79020.88,5,2,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,05-01-2024,Q1 2024,58658.74,93144.86,286520.93,64403.07,5,1,Yes,,OK
+M02,Priya Mehta,Mid-Market,05-01-2024,Q1 2024,65936.68,65711.28,317995.87,102198.51,3,2,Yes,,OK
+M03,Tom Baxter,Mid-Market,05-01-2024,Q1 2024,543030,30943.06,2325305,68408.93,3,4,Yes,Verbal commit received – awaiting paperwork,OK
+M04,Claire Pemberton,Mid-Market,05-01-2024,Q1 2024,81578.12,71075.53,260739.44,70835.02,6,4,No,,OK
+M05,Nathan Griffiths,Mid-Market,05-01-2024,Q1 2024,81830.2,70885.53,216975.38,68586.08,1,2,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,05-01-2024,Q1 2024,69128.69,69970.43,340285.35,110347.15,2,1,Yes,Forecast includes upsell opportunity,OK
+M07,Andrew Collinson,Mid-Market,05-01-2024,Q1 2024,87439.06,100434.85,252435.87,87009.74,5,8,Yes,Verbal commit received – awaiting paperwork,OK
+S01,Lucy Drummond,SMB,05-01-2024,Q1 2024,9850.08,7722.27,30417.13,10078.68,5,15,Yes,,OK
+S02,Ben Hartley,SMB,05-01-2024,Q1 2024,24852.66,12914.1,4330.13,1193.85,3,14,Yes,,FLAG
+S03,Fiona McKenzie,SMB,05-01-2024,Q1 2024,24515.3,30487.63,93706.1,25701.93,12,12,Yes,Budget freeze reported by prospect,OK
+S04,Callum Reid,SMB,05-01-2024,Q1 2024,14780.27,17796.63,40361.18,9163.43,2,2,Yes,Revised following manager review,OK
+S05,Amara Osei,SMB,05-01-2024,Q1 2024,30534.07,31793.74,3753.56,1271.05,2,4,No,Revised following manager review,FLAG
+S06,Steven Bowman,SMB,05-01-2024,Q1 2024,19860.67,9686,50882.36,12032.23,8,8,Yes,,OK
+S07,Rachel Sutton,SMB,05-01-2024,Q1 2024,29474.33,25459.86,122320,27811.19,3,2,No,,OK
+E01,James Whitfield,Enterprise,12-01-2024,Q1 2024,117165.29,109824.23,394169.55,100192.76,5,7,Yes,New logo opportunity added,OK
+E02,Sarah Thornton,Enterprise,12-01-2024,Q1 2024,68871.99,111983.87,296107.25,68868.15,4,2,Yes,Forecast includes upsell opportunity,OK
+E03,Marcus Bellingham,Enterprise,12-01-2024,Q1 2024,196721.52,190548.4,703224.44,204849.25,4,4,Yes,Deal pulled forward from next quarter,OK
+E04,Olivia Hargreaves,Enterprise,12-01-2024,Q1 2024,111449.69,106084.59,291500,82761.82,1,1,Yes,,OK
+E05,Richard Cavendish,Enterprise,12-01-2024,Q1 2024,192575.38,198611.83,505615.51,163929.23,4,8,Yes,,OK
+E06,Helena Forsythe,Enterprise,12-01-2024,Q1 2024,184111.76,183365.72,806306.78,183146.88,5,5,Yes,Revised following manager review,OK
+M01,Daniel Ashworth,Mid-Market,12-01-2024,Q1 2024,56849.47,90344.27,201215.05,50590.37,5,8,No,,OK
+M02,Priya Mehta,Mid-Market,12-01-2024,Q1 2024,74078.04,80742.14,275612.82,72364.66,4,4,Yes,Pipeline updated post-QBR,OK
+M03,Tom Baxter,Mid-Market,12-01-2024,Q1 2024,73444.33,38100.26,222473.95,68835.45,4,6,Yes,Two deals slipped to next week,OK
+M04,Claire Pemberton,Mid-Market,12-01-2024,Q1 2024,86976.7,79132.12,352546.08,91840.15,1,1,Yes,Forecast includes upsell opportunity,OK
+M07,Andrew Collinson,Mid-Market,12-01-2024,Q1 2024,70640.84,80350.55,342867.77,96228.12,6,7,Yes,,OK
+S02,Ben Hartley,SMB,12-01-2024,Q1 2024,28375.2,16264.33,121113.07,36908.63,12,9,Yes,Budget freeze reported by prospect,OK
+S03,Fiona McKenzie,SMB,12-01-2024,Q1 2024,14584.31,14326.96,610823,16059.35,7,11,Yes,,OK
+S04,Callum Reid,SMB,12-01-2024,Q1 2024,28470.45,31183.81,121842.29,22288.78,6,12,Yes,,OK
+S05,Amara Osei,SMB,12-01-2024,Q1 2024,14787.9,11983.05,48635.48,16616.27,4,5,Yes,Budget freeze reported by prospect,OK
+S07,Rachel Sutton,SMB,12-01-2024,Q1 2024,15887.69,19415.47,74213.83,24369.03,11,12,Yes,,OK
+E01,James Whitfield,Enterprise,19-01-2024,Q1 2024,168122.4,156114.67,761233.88,148045.34,2,3,Yes,,OK
+E02,Sarah Thornton,Enterprise,19-01-2024,Q1 2024,116610.42,203571.6,368677.28,81395.49,5,4,Yes,,OK
+E03,Marcus Bellingham,Enterprise,19-01-2024,Q1 2024,112679.33,108434.56,401459.27,116462.49,3,4,Yes,Forecast includes upsell opportunity,OK
+E04,Olivia Hargreaves,Enterprise,19-01-2024,Q1 2024,211974.67,211990.69,7619241,252349.73,6,8,Yes,Two deals slipped to next week,OK
+E05,Richard Cavendish,Enterprise,19-01-2024,Q1 2024,104526.7,104843.86,500701.92,139949.21,6,8,Yes,Forecast includes upsell opportunity,OK
+E06,Helena Forsythe,Enterprise,19-01-2024,Q1 2024,136063.32,141734.43,494871.09,116273.2,4,1,Yes,Two deals slipped to next week,OK
+M01,Daniel Ashworth,Mid-Market,19-01-2024,Q1 2024,47604.46,82137.37,122446.94,38678.95,6,2,Yes,Revised following manager review,OK
+M02,Priya Mehta,Mid-Market,19-01-2024,Q1 2024,72996.2,73190.49,258313.54,67233.17,4,5,Yes,Pipeline updated post-QBR,OK
+M03,Tom Baxter,Mid-Market,19-01-2024,Q1 2024,67073.43,34193.52,242562,57369.56,5,3,Yes,,OK
+M04,Claire Pemberton,Mid-Market,19-01-2024,Q1 2024,69821.33,76539.84,10505.19,2944.93,1,3,Yes,Budget freeze reported by prospect,FLAG
+M05,Nathan Griffiths,Mid-Market,19-01-2024,Q1 2024,71562.28,74779.07,331394.4,81059.6,3,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,19-01-2024,Q1 2024,75622.18,80247.78,272935.3,91046.33,1,2,Yes,Large renewal included,OK
+M07,Andrew Collinson,Mid-Market,19-01-2024,Q1 2024,82250.38,85204.24,307959.24,67588.44,6,4,Yes,,OK
+S01,Lucy Drummond,SMB,19-01-2024,Q1 2024,33974.78,37207.72,156734.51,38462.31,9,9,Yes,Pipeline updated post-QBR,OK
+S02,Ben Hartley,SMB,19-01-2024,Q1 2024,34601.61,19326.16,158547.95,49447.29,5,9,Yes,Customer procurement delay,OK
+S03,Fiona McKenzie,SMB,19-01-2024,Q1 2024,25451.2,23019.75,65750.91,13304.04,6,9,Yes,Large renewal included,OK
+S04,Callum Reid,SMB,19-01-2024,Q1 2024,30266.62,29991.92,97998,31038.17,9,14,No,,OK
+S05,Amara Osei,SMB,19-01-2024,Q1 2024,26153.2,27258.96,107133.27,31574.56,9,15,Yes,Revised following manager review,OK
+E01,James Whitfield,Enterprise,26-01-2024,Q1 2024,96256.87,92172.5,334166.74,114082.77,6,3,No,,OK
+E02,Sarah Thornton,Enterprise,26-01-2024,Q1 2024,108646.46,191640.54,419501,101089.27,4,6,Yes,Revised following manager review,OK
+E03,Marcus Bellingham,Enterprise,26-01-2024,Q1 2024,108728.78,114466.49,431213.75,94698.75,2,4,Yes,Pipeline updated post-QBR,OK
+E04,Olivia Hargreaves,Enterprise,26-01-2024,Q1 2024,130153.92,136160.4,330519.72,66615.9,4,6,Yes,,OK
+E05,Richard Cavendish,Enterprise,26-01-2024,Q1 2024,170067.7,157309.91,785414.52,155789.73,6,8,No,,OK
+E06,Helena Forsythe,Enterprise,26-01-2024,Q1 2024,154277.96,153135.45,423947.52,137772.25,6,7,Yes,Customer procurement delay,OK
+M01,Daniel Ashworth,Mid-Market,26-01-2024,Q1 2024,34352.23,63524.22,91646.03,17948.79,1,8,Yes,,OK
+M02,Priya Mehta,Mid-Market,26-01-2024,Q1 2024,73263.64,83558.62,247566.3,53515.32,6,5,Yes,,OK
+M03,Tom Baxter,Mid-Market,26-01-2024,Q1 2024,95500.52,51958.3,245663.9,76059.91,3,5,Yes,,OK
+M04,Claire Pemberton,Mid-Market,26-01-2024,Q1 2024,39444.56,37215.59,175216.23,34069.52,1,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,26-01-2024,Q1 2024,46994.79,49511.17,179394.86,39016.25,5,8,Yes,,OK
+M07,Andrew Collinson,Mid-Market,26-01-2024,Q1 2024,43806.64,44578.39,1127410,21978.15,1,6,Yes,,OK
+S01,Lucy Drummond,SMB,26-01-2024,Q1 2024,26619.47,24780.77,122748,34382.71,10,8,Yes,,OK
+S02,Ben Hartley,SMB,26-01-2024,Q1 2024,44533.9,22469.51,133297.94,41220.6,12,6,Yes,,OK
+S03,Fiona McKenzie,SMB,26-01-2024,Q1 2024,9843.73,9559.28,44206.46,10602.04,3,6,Yes,,OK
+S04,Callum Reid,SMB,26-01-2024,Q1 2024,23668.89,29044.47,112183.27,35637.11,12,13,Yes,Large renewal included,OK
+S06,Steven Bowman,SMB,26-01-2024,Q1 2024,47303.09,24236.03,164072.72,48469.15,2,6,Yes,Revised following manager review,OK
+S07,Rachel Sutton,SMB,26-01-2024,Q1 2024,23733.97,19478.8,77742.49,22744.57,4,7,Yes,,OK
+E01,James Whitfield,Enterprise,02-02-2024,Q1 2024,173863.85,174099.98,592266.18,128173.95,4,1,Yes,Two deals slipped to next week,OK
+E02,Sarah Thornton,Enterprise,02-02-2024,Q1 2024,150050.1,247923.93,686983.79,218143.07,2,3,Yes,Deal pulled forward from next quarter,OK
+E03,Marcus Bellingham,Enterprise,02-02-2024,Q1 2024,123325.51,129415.3,587021.49,173354.59,5,8,No,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,02-02-2024,Q1 2024,147282.69,144247.78,630149.36,126783.04,1,2,Yes,,OK
+E05,Richard Cavendish,Enterprise,02-02-2024,Q1 2024,150281,143927.79,35491.14,11451.57,6,2,Yes,,FLAG
+M01,Daniel Ashworth,Mid-Market,02-02-2024,Q1 2024,33795.22,59374.13,93882,21705.12,1,7,Yes,Revised following manager review,OK
+M02,Priya Mehta,Mid-Market,02-02-2024,Q1 2024,30093.86,28765.06,89327.15,24028.32,3,7,Yes,,OK
+M03,Tom Baxter,Mid-Market,02-02-2024,Q1 2024,69079.11,38031.07,195737.32,46497.99,6,6,Yes,New logo opportunity added,OK
+M07,Andrew Collinson,Mid-Market,02-02-2024,Q1 2024,60923.02,69862.66,190889.13,40561.57,3,8,Yes,,OK
+S01,Lucy Drummond,SMB,02-02-2024,Q1 2024,21397.49,21370.99,81271.71,24674.4,3,14,Yes,Large renewal included,OK
+S02,Ben Hartley,SMB,02-02-2024,Q1 2024,24261.15,12171.34,77305.44,26372.27,3,8,Yes,,OK
+S03,Fiona McKenzie,SMB,02-02-2024,Q1 2024,33635.61,25771.36,141190,34343.55,3,4,No,,OK
+S04,Callum Reid,SMB,02-02-2024,Q1 2024,23165.16,20405.92,98685.78,28028.65,9,6,Yes,,OK
+S05,Amara Osei,SMB,02-02-2024,Q1 2024,22849.92,20454.82,1057958,35708.91,12,6,Yes,,OK
+S06,Steven Bowman,SMB,02-02-2024,Q1 2024,29960.19,15801.94,128744.17,40008.28,11,13,Yes,,OK
+S07,Rachel Sutton,SMB,02-02-2024,Q1 2024,34089.14,32940.65,89945.3,18529.87,4,15,Yes,,OK
+E01,James Whitfield,Enterprise,09-02-2024,Q1 2024,169738.24,172231.58,496993.83,165668,3,3,Yes,,OK
+E02,Sarah Thornton,Enterprise,09-02-2024,Q1 2024,62796.07,109199.17,232807.78,69015.5,3,5,Yes,,OK
+E03,Marcus Bellingham,Enterprise,09-02-2024,Q1 2024,98307.26,96270.97,324196.68,73096.68,2,2,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,09-02-2024,Q1 2024,102307.94,110426.59,383337.54,70511.1,4,8,Yes,,OK
+E06,Helena Forsythe,Enterprise,09-02-2024,Q1 2024,98750.89,95029.53,435456.07,108036.16,5,6,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,09-02-2024,Q1 2024,63768.74,110707.57,279779.79,74575.54,5,6,Yes,,OK
+M02,Priya Mehta,Mid-Market,09-02-2024,Q1 2024,89436.94,95858.14,356344.66,95019.8,4,5,Yes,Pipeline updated post-QBR,OK
+M03,Tom Baxter,Mid-Market,09-02-2024,Q1 2024,64176.21,33309.84,276182,57718.53,6,4,Yes,Revised following manager review,OK
+M04,Claire Pemberton,Mid-Market,09-02-2024,Q1 2024,42233.5,42256.55,197739.12,37686.67,2,8,Yes,Budget freeze reported by prospect,OK
+M05,Nathan Griffiths,Mid-Market,09-02-2024,Q1 2024,41535.85,38377.29,127189.73,29329.25,3,5,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,09-02-2024,Q1 2024,88809.63,97292.13,286511.56,86355.74,3,3,No,,OK
+M07,Andrew Collinson,Mid-Market,09-02-2024,Q1 2024,44356.92,38378.92,5884.4,1776.8,1,4,Yes,,FLAG
+S01,Lucy Drummond,SMB,09-02-2024,Q1 2024,9597.39,10886.92,37768.93,11441.34,2,12,No,Forecast includes upsell opportunity,OK
+S02,Ben Hartley,SMB,09-02-2024,Q1 2024,10813.8,6416.93,39317.61,10581.71,4,6,Yes,,OK
+S03,Fiona McKenzie,SMB,09-02-2024,Q1 2024,23330.09,26331.31,93959.3,23389.6,8,4,Yes,,OK
+S04,Callum Reid,SMB,09-02-2024,Q1 2024,33758.94,30415.89,132746.68,32008.39,5,13,Yes,Customer procurement delay,OK
+S05,Amara Osei,SMB,09-02-2024,Q1 2024,33397.16,31185.33,101788.59,20972.68,11,5,Yes,,OK
+S06,Steven Bowman,SMB,09-02-2024,Q1 2024,40104.06,21864.25,133157.27,26599.6,5,4,Yes,Forecast includes upsell opportunity,OK
+S07,Rachel Sutton,SMB,09-02-2024,Q1 2024,18690.62,21647.97,56908.31,14342.52,3,13,Yes,,OK
+E01,James Whitfield,Enterprise,16-02-2024,Q1 2024,204786.7,203100.48,4704284,206006.63,5,7,Yes,,OK
+E02,Sarah Thornton,Enterprise,16-02-2024,Q1 2024,100348.1,162815.41,486038.63,96810.92,6,4,Yes,Two deals slipped to next week,OK
+E03,Marcus Bellingham,Enterprise,16-02-2024,Q1 2024,112807.5,107704.43,321539.61,70676.8,6,1,Yes,Two deals slipped to next week,OK
+E04,Olivia Hargreaves,Enterprise,16-02-2024,Q1 2024,162833.4,168961.46,661914.97,174914.69,3,3,No,Deal pulled forward from next quarter,OK
+E05,Richard Cavendish,Enterprise,16-02-2024,Q1 2024,179060.75,187821.15,699405.01,192153.66,2,1,Yes,Two deals slipped to next week,OK
+E06,Helena Forsythe,Enterprise,16-02-2024,Q1 2024,174314.07,177184.59,517783.95,156956.83,5,2,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,16-02-2024,Q1 2024,54544.72,88660.45,242112.27,65544.76,3,6,Yes,,OK
+M02,Priya Mehta,Mid-Market,16-02-2024,Q1 2024,32742.93,36319.29,83185.03,23232.37,6,3,Yes,Budget freeze reported by prospect,OK
+M03,Tom Baxter,Mid-Market,16-02-2024,Q1 2024,81499.52,42109.79,238236.47,62659.47,5,6,No,Deal pulled forward from next quarter,OK
+M04,Claire Pemberton,Mid-Market,16-02-2024,Q1 2024,390641,35765.59,134099.15,39337.76,5,8,No,,OK
+M05,Nathan Griffiths,Mid-Market,16-02-2024,Q1 2024,84586.4,74614.08,322355.69,91988.3,3,2,Yes,Verbal commit received – awaiting paperwork,OK
+M06,Yasmin Khalid,Mid-Market,16-02-2024,Q1 2024,81493.15,87839.49,286301.39,74702.01,6,2,Yes,Deal pulled forward from next quarter,OK
+M07,Andrew Collinson,Mid-Market,16-02-2024,Q1 2024,892087,91630.97,260850.99,77303.94,3,8,No,,FLAG
+S01,Lucy Drummond,SMB,16-02-2024,Q1 2024,16080.48,16594.72,73755.14,24516.9,7,11,Yes,,OK
+S02,Ben Hartley,SMB,16-02-2024,Q1 2024,46528.69,22087.87,207465.39,45390.01,10,6,No,,OK
+S03,Fiona McKenzie,SMB,16-02-2024,Q1 2024,25115.32,28124.83,85436.07,29074.17,9,7,Yes,,OK
+S04,Callum Reid,SMB,16-02-2024,Q1 2024,24116.96,27546.86,83519.33,20539.57,3,15,Yes,,OK
+S05,Amara Osei,SMB,16-02-2024,Q1 2024,16093.31,18367.83,50359.98,14415.83,11,7,Yes,,OK
+S06,Steven Bowman,SMB,16-02-2024,Q1 2024,41947.6,20042.8,168127.17,43953.77,4,7,No,New logo opportunity added,OK
+S07,Rachel Sutton,SMB,16-02-2024,Q1 2024,22731.99,24797.33,58359.6,19860.11,5,10,Yes,,OK
+E01,James Whitfield,Enterprise,23-02-2024,Q1 2024,90355.12,97449.09,357409.62,120445,6,8,Yes,,OK
+E02,Sarah Thornton,Enterprise,23-02-2024,Q1 2024,99799.44,153578.17,376911.62,105040.79,5,4,Yes,,OK
+E03,Marcus Bellingham,Enterprise,23-02-2024,Q1 2024,92019.67,96897.71,310181.9,97188.02,5,3,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,23-02-2024,Q1 2024,174799.51,165412.19,662487.47,156524.75,4,4,No,,OK
+E05,Richard Cavendish,Enterprise,23-02-2024,Q1 2024,80623.01,76943.97,353194.37,67331.51,1,5,Yes,,OK
+E06,Helena Forsythe,Enterprise,23-02-2024,Q1 2024,165583.18,167888.22,559664.9,117154.47,6,6,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,23-02-2024,Q1 2024,49845.46,83745.04,193763.31,39498.73,3,3,Yes,,OK
+M02,Priya Mehta,Mid-Market,23-02-2024,Q1 2024,54937.83,60539.7,160315.92,50547.57,2,8,Yes,,OK
+M03,Tom Baxter,Mid-Market,23-02-2024,Q1 2024,102265.56,57911,449969.51,97711.84,4,1,Yes,Deal pulled forward from next quarter,OK
+M04,Claire Pemberton,Mid-Market,23-02-2024,Q1 2024,74256.78,78470.11,216455.1,46564.98,2,7,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,23-02-2024,Q1 2024,70757.96,62165.65,339420.39,111125.59,2,7,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,23-02-2024,Q1 2024,34530.98,37582.81,121104.52,36101.21,3,2,Yes,,OK
+M07,Andrew Collinson,Mid-Market,23-02-2024,Q1 2024,88087.71,96672.24,279356,66324.31,5,8,Yes,,OK
+S02,Ben Hartley,SMB,23-02-2024,Q1 2024,17678.96,9888.27,82844.63,16226.6,7,4,Yes,Customer procurement delay,OK
+S04,Callum Reid,SMB,23-02-2024,Q1 2024,11582.89,9997.14,1375.06,275.7,8,12,Yes,,FLAG
+S05,Amara Osei,SMB,23-02-2024,Q1 2024,28335.26,23137.81,80957.6,14689,12,12,Yes,Customer procurement delay,OK
+S06,Steven Bowman,SMB,23-02-2024,Q1 2024,15120.94,7993.59,43088.26,8373.01,10,14,Yes,Two deals slipped to next week,OK
+S07,Rachel Sutton,SMB,23-02-2024,Q1 2024,29432.01,25596.15,81875.7,23004.46,10,8,No,,OK
+E01,James Whitfield,Enterprise,01-03-2024,Q1 2024,187851.39,173324.9,476106.25,160370.91,4,2,Yes,,OK
+E02,Sarah Thornton,Enterprise,01-03-2024,Q1 2024,166052.1,278720.74,543890.98,186055.72,2,2,Yes,Pipeline updated post-QBR,OK
+E03,Marcus Bellingham,Enterprise,01-03-2024,Q1 2024,178209.95,168624.61,678536.76,205277.82,2,6,Yes,Verbal commit received – awaiting paperwork,OK
+E04,Olivia Hargreaves,Enterprise,01-03-2024,Q1 2024,151509.46,140732.63,518044.1,102310.52,5,3,Yes,Large renewal included,OK
+E05,Richard Cavendish,Enterprise,01-03-2024,Q1 2024,200047.93,201740.01,612404.38,205581.28,3,7,Yes,,OK
+E06,Helena Forsythe,Enterprise,01-03-2024,Q1 2024,145113.18,140058.76,481522.16,87326.34,2,5,Yes,Deal pulled forward from next quarter,OK
+M01,Daniel Ashworth,Mid-Market,01-03-2024,Q1 2024,64100.83,111330.92,11631.79,3772.55,6,1,Yes,Deal pulled forward from next quarter,FLAG
+M02,Priya Mehta,Mid-Market,01-03-2024,Q1 2024,61185.55,64872.23,223091.4,62182.49,5,6,Yes,,OK
+M03,Tom Baxter,Mid-Market,01-03-2024,Q1 2024,98373.29,48898.43,279407.66,55469.51,1,4,Yes,Customer procurement delay,OK
+M04,Claire Pemberton,Mid-Market,01-03-2024,Q1 2024,78455.81,73847.67,238313,48905.54,6,1,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,01-03-2024,Q1 2024,63007.25,55346.68,284146,51723.94,2,2,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,01-03-2024,Q1 2024,35518.72,39219.15,99676.86,18799.89,5,6,Yes,Revised following manager review,OK
+S01,Lucy Drummond,SMB,01-03-2024,Q1 2024,14636.19,13136.75,68891.76,13427.88,8,8,Yes,,OK
+S02,Ben Hartley,SMB,01-03-2024,Q1 2024,28471.61,14770.77,73034.17,13509.98,6,4,Yes,Two deals slipped to next week,OK
+S03,Fiona McKenzie,SMB,01-03-2024,Q1 2024,33590.67,34861.94,116595.1,40640.63,4,14,Yes,,OK
+S04,Callum Reid,SMB,01-03-2024,Q1 2024,12740.03,9796.85,39259.15,10580.19,2,2,Yes,,OK
+S05,Amara Osei,SMB,01-03-2024,Q1 2024,11824.62,9524.26,55004.28,13394.12,12,10,Yes,,OK
+S06,Steven Bowman,SMB,01-03-2024,Q1 2024,47575,25695.91,198096.02,48399.87,6,5,Yes,,OK
+S07,Rachel Sutton,SMB,01-03-2024,Q1 2024,21397,19590.75,66223.49,13810.3,3,3,Yes,Two deals slipped to next week,OK
+E01,James Whitfield,Enterprise,08-03-2024,Q1 2024,182561.83,196264.24,681449.45,185915.82,1,7,Yes,Verbal commit received – awaiting paperwork,OK
+E02,Sarah Thornton,Enterprise,08-03-2024,Q1 2024,161915.92,274036.43,541588.77,179725.39,6,2,Yes,,OK
+E03,Marcus Bellingham,Enterprise,08-03-2024,Q1 2024,119413.23,114398.8,415827.38,109554.38,1,1,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,08-03-2024,Q1 2024,123169.48,121148.85,583477.67,168693.48,4,8,Yes,Revised following manager review,OK
+E05,Richard Cavendish,Enterprise,08-03-2024,Q1 2024,173445.58,161948.43,784052.16,241956.67,2,6,Yes,Two deals slipped to next week,OK
+E06,Helena Forsythe,Enterprise,08-03-2024,Q1 2024,206063.71,215969.61,577123.59,120843.58,2,3,No,,OK
+M01,Daniel Ashworth,Mid-Market,08-03-2024,Q1 2024,67151.37,106505.71,260556.42,69919.53,1,7,Yes,Customer procurement delay,OK
+M02,Priya Mehta,Mid-Market,08-03-2024,Q1 2024,36059.43,33745.42,169289.41,49316.36,5,6,Yes,Deal pulled forward from next quarter,OK
+M04,Claire Pemberton,Mid-Market,08-03-2024,Q1 2024,46115.06,44350.34,209522.16,47699.59,4,6,Yes,Verbal commit received – awaiting paperwork,OK
+M06,Yasmin Khalid,Mid-Market,08-03-2024,Q1 2024,79438.17,85180.23,361645.71,74869.82,3,6,No,,OK
+M07,Andrew Collinson,Mid-Market,08-03-2024,Q1 2024,46438.65,50945.61,189865.56,35162.29,3,7,Yes,Verbal commit received – awaiting paperwork,OK
+S01,Lucy Drummond,SMB,08-03-2024,Q1 2024,18437.27,15329.74,82038.04,17853.91,5,11,Yes,Large renewal included,OK
+S02,Ben Hartley,SMB,08-03-2024,Q1 2024,11359.54,5675.29,46651.95,11383.11,7,13,Yes,,OK
+S03,Fiona McKenzie,SMB,08-03-2024,Q1 2024,24031.86,21420.52,66574.53,23169.36,12,12,Yes,,OK
+S04,Callum Reid,SMB,08-03-2024,Q1 2024,16628.81,13635.04,68818.37,15422.37,8,2,Yes,,OK
+S05,Amara Osei,SMB,08-03-2024,Q1 2024,30826.32,36076.64,91025.18,18364.38,6,10,Yes,,OK
+S06,Steven Bowman,SMB,08-03-2024,Q1 2024,21471.2,12155.87,84828.05,22078.82,5,11,Yes,,OK
+S07,Rachel Sutton,SMB,08-03-2024,Q1 2024,31284.64,26284.68,116346.06,24439.67,12,3,Yes,,OK
+E01,James Whitfield,Enterprise,15-03-2024,Q1 2024,140117,139480.9,12594.15,3065.76,1,8,No,Revised following manager review,FLAG
+E02,Sarah Thornton,Enterprise,15-03-2024,Q1 2024,119391.33,181592.39,434562.45,116940.75,4,5,No,Deal pulled forward from next quarter,OK
+E03,Marcus Bellingham,Enterprise,15-03-2024,Q1 2024,98368,99842.46,2762110,86912.77,4,3,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,15-03-2024,Q1 2024,156619.53,156362.89,472010.13,85708.44,4,3,Yes,Customer procurement delay,OK
+E05,Richard Cavendish,Enterprise,15-03-2024,Q1 2024,165260,168200.13,561026.27,116280.27,5,4,Yes,,OK
+E06,Helena Forsythe,Enterprise,15-03-2024,Q1 2024,92611.57,92680.95,441011.54,113625.61,3,2,Yes,Two deals slipped to next week,OK
+M02,Priya Mehta,Mid-Market,15-03-2024,Q1 2024,68831.92,67416.69,336431.34,102484.24,3,8,Yes,Large renewal included,OK
+M03,Tom Baxter,Mid-Market,15-03-2024,Q1 2024,100065.35,48137.8,478118.96,132305.26,4,7,Yes,Budget freeze reported by prospect,OK
+M04,Claire Pemberton,Mid-Market,15-03-2024,Q1 2024,30741.61,32100.39,152009.25,36103.89,5,4,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,15-03-2024,Q1 2024,66774.84,62861.66,251335.09,66425.84,2,3,Yes,Deal pulled forward from next quarter,OK
+M06,Yasmin Khalid,Mid-Market,15-03-2024,Q1 2024,956651,57147.84,262945.63,52636.5,4,2,No,,FLAG
+M07,Andrew Collinson,Mid-Market,15-03-2024,Q1 2024,70288.46,74087.03,320745.76,103772.15,3,6,Yes,,OK
+S01,Lucy Drummond,SMB,15-03-2024,Q1 2024,34039.71,32623.55,116917.07,38871.31,9,10,Yes,New logo opportunity added,OK
+S02,Ben Hartley,SMB,15-03-2024,Q1 2024,15193,8279.03,42664.07,10996.92,11,11,No,Large renewal included,OK
+S03,Fiona McKenzie,SMB,15-03-2024,Q1 2024,12688.56,13488.56,44010.44,14526.01,10,3,No,,OK
+S04,Callum Reid,SMB,15-03-2024,Q1 2024,28207.53,27073.09,109149.44,33318.87,10,13,Yes,,OK
+S05,Amara Osei,SMB,15-03-2024,Q1 2024,25195.69,26255.69,85176.41,23594.59,12,14,Yes,Large renewal included,OK
+S06,Steven Bowman,SMB,15-03-2024,Q1 2024,34551.09,19890.67,7352.65,1451.57,12,5,Yes,,FLAG
+S07,Rachel Sutton,SMB,15-03-2024,Q1 2024,29279.01,30363.21,77135.72,16547.53,9,10,Yes,,OK
+E01,James Whitfield,Enterprise,22-03-2024,Q1 2024,85688.79,84477.43,242085.09,54070.37,3,5,Yes,,OK
+E02,Sarah Thornton,Enterprise,22-03-2024,Q1 2024,67423.41,121192.49,301089.06,81993.67,4,2,Yes,Pipeline updated post-QBR,OK
+E03,Marcus Bellingham,Enterprise,22-03-2024,Q1 2024,128441.02,126306.62,629006.77,147539.38,1,4,Yes,Two deals slipped to next week,OK
+E04,Olivia Hargreaves,Enterprise,22-03-2024,Q1 2024,171213.95,169244.99,833902.59,285667.47,5,2,Yes,,OK
+E05,Richard Cavendish,Enterprise,22-03-2024,Q1 2024,211565.16,214908.1,541476.13,100953.17,1,3,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,22-03-2024,Q1 2024,45832.71,81548.72,194890.1,65827.66,1,1,Yes,,OK
+M02,Priya Mehta,Mid-Market,22-03-2024,Q1 2024,74805,77469.23,366570.76,108189.38,6,5,Yes,New logo opportunity added,OK
+M03,Tom Baxter,Mid-Market,22-03-2024,Q1 2024,112951.7,61809.75,327829.41,105530.65,2,3,Yes,,OK
+M04,Claire Pemberton,Mid-Market,22-03-2024,Q1 2024,51428.3,52485.43,141433.62,47100.25,3,4,Yes,Pipeline updated post-QBR,OK
+M05,Nathan Griffiths,Mid-Market,22-03-2024,Q1 2024,77139.61,79103.88,246206.45,72761.06,3,7,Yes,Revised following manager review,OK
+M06,Yasmin Khalid,Mid-Market,22-03-2024,Q1 2024,41785.92,42956.98,180455.13,58545.03,6,2,Yes,Revised following manager review,OK
+M07,Andrew Collinson,Mid-Market,22-03-2024,Q1 2024,43398.4,44815.68,123021.58,24037.7,3,5,Yes,,OK
+S01,Lucy Drummond,SMB,22-03-2024,Q1 2024,9091,9566.76,24157.07,4524.07,5,5,Yes,Budget freeze reported by prospect,OK
+S02,Ben Hartley,SMB,22-03-2024,Q1 2024,19905.07,11105.17,79007.16,15266.74,6,7,Yes,Revised following manager review,OK
+S03,Fiona McKenzie,SMB,22-03-2024,Q1 2024,14209.75,14251.08,43038.39,10397.12,3,6,No,Deal pulled forward from next quarter,OK
+S05,Amara Osei,SMB,22-03-2024,Q1 2024,12350.49,12670.46,58380.68,12159.41,4,2,Yes,Large renewal included,OK
+S06,Steven Bowman,SMB,22-03-2024,Q1 2024,25930.23,14313.71,107587.68,32611.09,7,11,No,,OK
+S07,Rachel Sutton,SMB,22-03-2024,Q1 2024,24348.8,22777.92,97383,26327.05,3,11,Yes,,OK
+E01,James Whitfield,Enterprise,29-03-2024,Q1 2024,133373.11,134133.21,475304.88,147437.68,1,2,Yes,,OK
+E02,Sarah Thornton,Enterprise,29-03-2024,Q1 2024,134643.52,215637.64,424565.64,117177.54,5,5,Yes,,OK
+E03,Marcus Bellingham,Enterprise,29-03-2024,Q1 2024,178769.25,181466.89,781138.56,233468.99,2,2,Yes,Verbal commit received – awaiting paperwork,OK
+E04,Olivia Hargreaves,Enterprise,29-03-2024,Q1 2024,146033.61,146970.52,388478.78,75212.12,1,2,Yes,New logo opportunity added,OK
+E05,Richard Cavendish,Enterprise,29-03-2024,Q1 2024,210306.19,210550.52,543436.1,145471.5,2,4,Yes,,OK
+E06,Helena Forsythe,Enterprise,29-03-2024,Q1 2024,108043.45,104692.32,5618386,157301.02,5,2,No,Customer procurement delay,OK
+M01,Daniel Ashworth,Mid-Market,29-03-2024,Q1 2024,47447.84,76862.4,222543.78,61807.52,6,5,Yes,,OK
+M02,Priya Mehta,Mid-Market,29-03-2024,Q1 2024,34053.26,34599.45,142760.87,33359.53,3,4,Yes,,OK
+M03,Tom Baxter,Mid-Market,29-03-2024,Q1 2024,56836.21,32206.15,212993.62,64967.94,3,4,Yes,Pipeline updated post-QBR,OK
+M04,Claire Pemberton,Mid-Market,29-03-2024,Q1 2024,62488.44,59056.05,214209.82,71263.45,5,8,Yes,Two deals slipped to next week,OK
+M05,Nathan Griffiths,Mid-Market,29-03-2024,Q1 2024,53623.02,54822.06,195348.11,52371.83,3,3,Yes,Deal pulled forward from next quarter,OK
+M06,Yasmin Khalid,Mid-Market,29-03-2024,Q1 2024,87511.61,85863.9,327899.44,98081.66,3,3,Yes,Deal pulled forward from next quarter,OK
+M07,Andrew Collinson,Mid-Market,29-03-2024,Q1 2024,81378.52,78410.45,10929.47,2217.15,6,3,Yes,Budget freeze reported by prospect,FLAG
+S01,Lucy Drummond,SMB,29-03-2024,Q1 2024,25006.28,24755.49,78755.35,21639.89,6,7,Yes,Forecast includes upsell opportunity,OK
+S02,Ben Hartley,SMB,29-03-2024,Q1 2024,35957.01,20041.87,145056.33,49699.35,4,8,Yes,Budget freeze reported by prospect,OK
+S03,Fiona McKenzie,SMB,29-03-2024,Q1 2024,18677.29,20125.5,86980.46,24335.08,9,14,Yes,Customer procurement delay,OK
+S05,Amara Osei,SMB,29-03-2024,Q1 2024,22807.71,20647.2,86896.4,17176.62,11,8,Yes,Two deals slipped to next week,OK
+S06,Steven Bowman,SMB,29-03-2024,Q1 2024,42085.97,24257.8,203575.92,41319.71,10,10,Yes,Verbal commit received – awaiting paperwork,OK
+S07,Rachel Sutton,SMB,29-03-2024,Q1 2024,17876.15,17017.4,45162.12,13951.02,4,6,Yes,Forecast includes upsell opportunity,OK
+E01,James Whitfield,Enterprise,05-04-2024,Q2 2024,191547.43,193025.02,676035.96,167053.79,2,4,Yes,Budget freeze reported by prospect,OK
+E02,Sarah Thornton,Enterprise,05-04-2024,Q2 2024,139609.98,244369.07,396710,102116.49,4,3,Yes,Budget freeze reported by prospect,OK
+E03,Marcus Bellingham,Enterprise,05-04-2024,Q2 2024,141378,130253.64,406704.34,96846.55,3,2,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,05-04-2024,Q2 2024,89993.86,89564,426503.16,104437.04,1,4,Yes,New logo opportunity added,OK
+E05,Richard Cavendish,Enterprise,05-04-2024,Q2 2024,175401.92,170128.9,508056.69,155771.8,5,6,Yes,,OK
+E06,Helena Forsythe,Enterprise,05-04-2024,Q2 2024,103430.45,99725.16,360922.7,124410.75,5,2,Yes,Two deals slipped to next week,OK
+M01,Daniel Ashworth,Mid-Market,05-04-2024,Q2 2024,49504.24,83705.56,162960.48,47191.7,3,4,Yes,,OK
+M02,Priya Mehta,Mid-Market,05-04-2024,Q2 2024,62564.04,62378.08,241437.86,62683.81,5,3,No,,OK
+M03,Tom Baxter,Mid-Market,05-04-2024,Q2 2024,56995.99,30885.33,188185.67,64814.48,4,4,Yes,Two deals slipped to next week,OK
+M04,Claire Pemberton,Mid-Market,05-04-2024,Q2 2024,37786.46,42020.35,104579,19389.92,6,4,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,05-04-2024,Q2 2024,79924.66,79158.8,271928.89,90109.95,3,1,Yes,Customer procurement delay,OK
+M06,Yasmin Khalid,Mid-Market,05-04-2024,Q2 2024,43861.08,42352.23,167351.08,47913.49,2,4,No,Large renewal included,OK
+M07,Andrew Collinson,Mid-Market,05-04-2024,Q2 2024,60281.57,63130.45,291389.03,79698.93,3,8,Yes,Budget freeze reported by prospect,OK
+S01,Lucy Drummond,SMB,05-04-2024,Q2 2024,208214,24862.54,87243.1,24539.71,10,2,Yes,Revised following manager review,OK
+S02,Ben Hartley,SMB,05-04-2024,Q2 2024,27100.35,15642.24,83536.43,16341.72,8,5,Yes,,OK
+S03,Fiona McKenzie,SMB,05-04-2024,Q2 2024,9009.03,10397.96,1839.47,439.91,8,8,Yes,Revised following manager review,FLAG
+S04,Callum Reid,SMB,05-04-2024,Q2 2024,26839.75,22185.71,116187.86,29715.6,11,12,Yes,,OK
+S05,Amara Osei,SMB,05-04-2024,Q2 2024,10297.13,10306.52,43707.99,11440.87,5,14,Yes,,OK
+S06,Steven Bowman,SMB,05-04-2024,Q2 2024,23659.21,11367.57,69159.13,22108.05,9,6,Yes,Deal pulled forward from next quarter,OK
+S07,Rachel Sutton,SMB,05-04-2024,Q2 2024,33021.7,39110.12,106303.88,33669.39,6,15,Yes,Revised following manager review,OK
+E01,James Whitfield,Enterprise,12-04-2024,Q2 2024,173556.48,170129.97,544731.46,116636.99,6,1,Yes,Pipeline updated post-QBR,OK
+E02,Sarah Thornton,Enterprise,12-04-2024,Q2 2024,142985,259948.23,680562.86,191583.95,1,2,Yes,,OK
+E03,Marcus Bellingham,Enterprise,12-04-2024,Q2 2024,129752.94,125649.14,587746.06,193588.94,1,5,No,,OK
+E04,Olivia Hargreaves,Enterprise,12-04-2024,Q2 2024,176113.26,173783.87,628048.52,177682.91,4,3,Yes,Revised following manager review,OK
+E05,Richard Cavendish,Enterprise,12-04-2024,Q2 2024,207260.29,216215.6,682661.63,232966.65,1,3,Yes,Budget freeze reported by prospect,OK
+E06,Helena Forsythe,Enterprise,12-04-2024,Q2 2024,106310.7,100043.41,468417.58,105565.7,5,1,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,12-04-2024,Q2 2024,39373.03,64006.7,120705.22,41606.91,3,4,No,,OK
+M02,Priya Mehta,Mid-Market,12-04-2024,Q2 2024,83255.21,81445.8,334671,101216.06,4,1,Yes,,OK
+M03,Tom Baxter,Mid-Market,12-04-2024,Q2 2024,100168.29,54247.51,297963.19,98431.42,3,1,Yes,Customer procurement delay,OK
+M04,Claire Pemberton,Mid-Market,12-04-2024,Q2 2024,65126.86,72831.27,226815.16,41787.31,4,3,Yes,Verbal commit received – awaiting paperwork,OK
+M06,Yasmin Khalid,Mid-Market,12-04-2024,Q2 2024,51776.6,52146.56,223529.15,63493.98,2,7,Yes,Two deals slipped to next week,OK
+M07,Andrew Collinson,Mid-Market,12-04-2024,Q2 2024,48571.1,52485.4,156493.72,52073.62,2,8,Yes,,OK
+S01,Lucy Drummond,SMB,12-04-2024,Q2 2024,20250.94,19662.4,81008.93,22119.33,11,11,Yes,,OK
+S02,Ben Hartley,SMB,12-04-2024,Q2 2024,44075.22,22113.97,141523.4,42311.81,11,12,Yes,,OK
+S03,Fiona McKenzie,SMB,12-04-2024,Q2 2024,9753,9610.69,41319.05,11139.57,10,3,Yes,,OK
+S04,Callum Reid,SMB,12-04-2024,Q2 2024,34629.52,30944.72,159970.88,44435.79,11,11,Yes,Forecast includes upsell opportunity,OK
+S05,Amara Osei,SMB,12-04-2024,Q2 2024,8042.68,6128.47,36126.38,7776.07,11,12,No,Verbal commit received – awaiting paperwork,OK
+S06,Steven Bowman,SMB,12-04-2024,Q2 2024,28198.1,16025.42,98414.84,33777.86,4,7,Yes,,OK
+S07,Rachel Sutton,SMB,12-04-2024,Q2 2024,29982.5,36395.61,137552.64,41712,7,2,Yes,,OK
+E01,James Whitfield,Enterprise,19-04-2024,Q2 2024,159937.43,157111.43,745545.81,223585.65,3,2,Yes,Large renewal included,OK
+E02,Sarah Thornton,Enterprise,19-04-2024,Q2 2024,134569.85,240510.97,605236.42,124795.65,3,1,No,New logo opportunity added,OK
+E03,Marcus Bellingham,Enterprise,19-04-2024,Q2 2024,144311.58,149245.36,362261,107518.87,5,2,Yes,New logo opportunity added,OK
+E04,Olivia Hargreaves,Enterprise,19-04-2024,Q2 2024,106956.39,103134.19,474027.27,107296.65,2,6,Yes,,OK
+E05,Richard Cavendish,Enterprise,19-04-2024,Q2 2024,89974,91604.52,5020.42,1674.61,1,6,Yes,,FLAG
+E06,Helena Forsythe,Enterprise,19-04-2024,Q2 2024,126526.49,120415.71,624307.62,161800.69,2,2,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,19-04-2024,Q2 2024,36693.5,64735.35,5323.01,1276.17,4,6,Yes,Forecast includes upsell opportunity,FLAG
+M02,Priya Mehta,Mid-Market,19-04-2024,Q2 2024,54048.99,52645.48,209162.7,51296.9,3,4,Yes,,OK
+M03,Tom Baxter,Mid-Market,19-04-2024,Q2 2024,49116.51,24426.52,144423.89,27705.31,1,8,Yes,Pipeline updated post-QBR,OK
+M04,Claire Pemberton,Mid-Market,19-04-2024,Q2 2024,69652.88,68670.24,242040.75,51618.42,6,5,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,19-04-2024,Q2 2024,37653.34,35328.45,178954.63,32237.49,5,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,19-04-2024,Q2 2024,42672,38492,126762.9,42739.63,4,3,Yes,Verbal commit received – awaiting paperwork,OK
+M07,Andrew Collinson,Mid-Market,19-04-2024,Q2 2024,78356.5,86822.59,317980.16,80163.18,4,7,Yes,,OK
+S01,Lucy Drummond,SMB,19-04-2024,Q2 2024,8903.47,6846.17,37948.43,9937.2,3,9,Yes,Verbal commit received – awaiting paperwork,OK
+S02,Ben Hartley,SMB,19-04-2024,Q2 2024,30708.74,17312.75,136540.8,36477.25,9,10,Yes,,OK
+S03,Fiona McKenzie,SMB,19-04-2024,Q2 2024,24991.1,25967.52,65702.85,20861.46,11,11,Yes,Budget freeze reported by prospect,OK
+S05,Amara Osei,SMB,19-04-2024,Q2 2024,12714.57,13297.98,52738.64,11065.51,5,4,Yes,,OK
+S06,Steven Bowman,SMB,19-04-2024,Q2 2024,26269.78,14823.61,69242.27,22110.46,2,7,Yes,,OK
+S07,Rachel Sutton,SMB,19-04-2024,Q2 2024,22321.94,21593.51,107548.35,31763.75,10,6,Yes,Customer procurement delay,OK
+E01,James Whitfield,Enterprise,26-04-2024,Q2 2024,8161784,160778.03,701463.7,149508.13,3,4,Yes,Forecast includes upsell opportunity,FLAG
+E02,Sarah Thornton,Enterprise,26-04-2024,Q2 2024,67330.51,109273.42,328318.56,98617.95,1,4,Yes,Large renewal included,OK
+E03,Marcus Bellingham,Enterprise,26-04-2024,Q2 2024,145373.78,155519.29,698773.75,176501.29,6,8,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,26-04-2024,Q2 2024,89715.79,96597.66,361173.75,95223.37,2,4,Yes,Pipeline updated post-QBR,OK
+E05,Richard Cavendish,Enterprise,26-04-2024,Q2 2024,100839.6,103103.81,419645.46,125477.93,4,1,Yes,Pipeline updated post-QBR,OK
+E06,Helena Forsythe,Enterprise,26-04-2024,Q2 2024,176496.58,184398.83,691532.98,166670.59,6,2,Yes,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,26-04-2024,Q2 2024,25269.81,42209.64,103013.47,20028.56,6,2,Yes,Forecast includes upsell opportunity,OK
+M02,Priya Mehta,Mid-Market,26-04-2024,Q2 2024,87897.23,96118.56,18243.57,3416.63,1,1,Yes,,FLAG
+M04,Claire Pemberton,Mid-Market,26-04-2024,Q2 2024,37832.26,34112.4,180144.22,35405.49,5,1,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,26-04-2024,Q2 2024,88551.2,90569.29,292570.91,63268.29,1,3,Yes,,OK
+M07,Andrew Collinson,Mid-Market,26-04-2024,Q2 2024,80842,83569,205263.97,37169.08,2,3,No,Budget freeze reported by prospect,OK
+S01,Lucy Drummond,SMB,26-04-2024,Q2 2024,19124.85,23314.04,80882.49,24420.35,11,11,No,,OK
+S02,Ben Hartley,SMB,26-04-2024,Q2 2024,46644.24,25339.37,148844.87,46949.28,12,5,Yes,,OK
+S03,Fiona McKenzie,SMB,26-04-2024,Q2 2024,32032.15,31281.76,139373.23,29254.57,2,3,Yes,Customer procurement delay,OK
+S04,Callum Reid,SMB,26-04-2024,Q2 2024,10647.73,11913.47,31942.02,6148.84,11,15,Yes,Budget freeze reported by prospect,OK
+S05,Amara Osei,SMB,26-04-2024,Q2 2024,11434.72,12533.65,36608.37,9486.72,8,2,Yes,Deal pulled forward from next quarter,OK
+S06,Steven Bowman,SMB,26-04-2024,Q2 2024,43580.11,22634.6,5910.42,1940.64,5,15,Yes,Two deals slipped to next week,FLAG
+S07,Rachel Sutton,SMB,26-04-2024,Q2 2024,18646.64,21534.23,84902,18753.84,10,13,Yes,,OK
+E01,James Whitfield,Enterprise,03-05-2024,Q2 2024,184620.14,170571.68,675599.23,202364.22,2,8,Yes,Forecast includes upsell opportunity,OK
+E02,Sarah Thornton,Enterprise,03-05-2024,Q2 2024,87828.12,155359.54,355803.86,120432.97,5,2,No,Verbal commit received – awaiting paperwork,OK
+E03,Marcus Bellingham,Enterprise,03-05-2024,Q2 2024,188300.57,177406.43,583088.11,152386.52,5,6,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,03-05-2024,Q2 2024,150203.01,158123.15,642052.28,173729.99,3,8,Yes,Customer procurement delay,OK
+E05,Richard Cavendish,Enterprise,03-05-2024,Q2 2024,95683.44,90293.85,448514.49,128560.83,3,3,Yes,Deal pulled forward from next quarter,OK
+E06,Helena Forsythe,Enterprise,03-05-2024,Q2 2024,152746.87,148735.79,632280.58,166065.47,6,6,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,03-05-2024,Q2 2024,58257.74,96632.19,235744.33,63887.62,2,3,No,Large renewal included,OK
+M02,Priya Mehta,Mid-Market,03-05-2024,Q2 2024,72428.06,76025.27,207858.44,71883.51,5,6,Yes,,OK
+M03,Tom Baxter,Mid-Market,03-05-2024,Q2 2024,666831,35706.55,299996.97,101035.88,3,3,Yes,,OK
+M04,Claire Pemberton,Mid-Market,03-05-2024,Q2 2024,65005.89,59587.2,194321.39,63039.17,6,5,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,03-05-2024,Q2 2024,52177.8,50187.18,175437.44,44867.76,5,5,Yes,Revised following manager review,OK
+M07,Andrew Collinson,Mid-Market,03-05-2024,Q2 2024,65876.14,58833.44,242854.56,84447.46,1,5,No,Revised following manager review,OK
+S01,Lucy Drummond,SMB,03-05-2024,Q2 2024,30471.66,27263.96,79396.42,25556.08,6,9,Yes,Forecast includes upsell opportunity,OK
+S02,Ben Hartley,SMB,03-05-2024,Q2 2024,28186.07,14162.81,105208.04,29648.84,7,6,Yes,Pipeline updated post-QBR,OK
+S03,Fiona McKenzie,SMB,03-05-2024,Q2 2024,12396.88,9660.33,45280.95,10901.64,2,7,Yes,Large renewal included,OK
+S04,Callum Reid,SMB,03-05-2024,Q2 2024,24166.59,20144.49,113126.4,33535.69,6,7,Yes,Customer procurement delay,OK
+S05,Amara Osei,SMB,03-05-2024,Q2 2024,21591.34,25170.9,1042399,32905.29,10,14,Yes,,OK
+S06,Steven Bowman,SMB,03-05-2024,Q2 2024,26954.72,15469.77,5739.06,1249.97,4,4,Yes,,FLAG
+S07,Rachel Sutton,SMB,03-05-2024,Q2 2024,9147.96,7354.12,37959.19,9859.67,6,14,Yes,Pipeline updated post-QBR,OK
+E01,James Whitfield,Enterprise,10-05-2024,Q2 2024,198420.61,212448,670762.51,209771.83,5,6,Yes,,OK
+E03,Marcus Bellingham,Enterprise,10-05-2024,Q2 2024,209392.49,223479.66,715317.75,182222.33,1,8,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,10-05-2024,Q2 2024,186718.32,192834.64,505188.78,123979.79,4,1,Yes,,OK
+E05,Richard Cavendish,Enterprise,10-05-2024,Q2 2024,131441.8,121195.35,549458.08,147723.24,6,8,Yes,New logo opportunity added,OK
+E06,Helena Forsythe,Enterprise,10-05-2024,Q2 2024,163294.52,176114.08,503302.13,133298.92,6,2,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,10-05-2024,Q2 2024,33202.84,54959.11,144249.61,38180.41,1,2,No,,OK
+M02,Priya Mehta,Mid-Market,10-05-2024,Q2 2024,42115.91,44163.92,158439.48,50322.26,5,8,Yes,Forecast includes upsell opportunity,OK
+M03,Tom Baxter,Mid-Market,10-05-2024,Q2 2024,53048.36,27917.19,208062.99,57039.07,5,2,Yes,Forecast includes upsell opportunity,OK
+M04,Claire Pemberton,Mid-Market,10-05-2024,Q2 2024,31688.82,27364.42,106860.78,19723.61,6,6,Yes,Verbal commit received – awaiting paperwork,OK
+M05,Nathan Griffiths,Mid-Market,10-05-2024,Q2 2024,33930.01,31944.22,99226.57,18491.29,6,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,10-05-2024,Q2 2024,78499.59,69080.98,262182.26,81285.33,3,4,Yes,Forecast includes upsell opportunity,OK
+M07,Andrew Collinson,Mid-Market,10-05-2024,Q2 2024,47839.22,48894.37,194295.66,58679.26,5,4,Yes,Forecast includes upsell opportunity,OK
+S01,Lucy Drummond,SMB,10-05-2024,Q2 2024,16097.54,17413.17,48295.73,13824.36,9,7,Yes,,OK
+S02,Ben Hartley,SMB,10-05-2024,Q2 2024,34942.25,19369.23,3149.33,814.49,5,11,Yes,Forecast includes upsell opportunity,FLAG
+S03,Fiona McKenzie,SMB,10-05-2024,Q2 2024,14924,15679.46,468207,8535.07,6,8,Yes,Two deals slipped to next week,OK
+S04,Callum Reid,SMB,10-05-2024,Q2 2024,21117.73,16048.51,100124.74,23094.42,3,15,No,Customer procurement delay,OK
+S05,Amara Osei,SMB,10-05-2024,Q2 2024,30382.5,37213.62,95082.65,20963.16,3,10,Yes,,OK
+S06,Steven Bowman,SMB,10-05-2024,Q2 2024,42357,23190.48,139407.92,41273.88,6,3,Yes,Deal pulled forward from next quarter,OK
+S07,Rachel Sutton,SMB,10-05-2024,Q2 2024,18386.64,19664.04,62645.8,12576.09,5,13,Yes,Large renewal included,OK
+E01,James Whitfield,Enterprise,17-05-2024,Q2 2024,168389.38,178613.1,753255.11,145842.3,4,7,Yes,,OK
+E02,Sarah Thornton,Enterprise,17-05-2024,Q2 2024,114017.92,185954.08,510520.76,126666.59,6,8,Yes,,OK
+E03,Marcus Bellingham,Enterprise,17-05-2024,Q2 2024,190969.92,185451.63,894458.16,187381.32,5,8,Yes,Pipeline updated post-QBR,OK
+E04,Olivia Hargreaves,Enterprise,17-05-2024,Q2 2024,209235.73,214160.53,997450.15,213160.34,6,4,Yes,,OK
+E05,Richard Cavendish,Enterprise,17-05-2024,Q2 2024,208798.47,207251.95,583859.16,124007.31,3,8,Yes,,OK
+E06,Helena Forsythe,Enterprise,17-05-2024,Q2 2024,190944.89,176548.36,589774.18,131056.11,5,5,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,17-05-2024,Q2 2024,36032.25,56713.72,132502.51,37509.29,6,4,No,,OK
+M03,Tom Baxter,Mid-Market,17-05-2024,Q2 2024,53612.81,28570.52,176562.7,36037.38,1,2,Yes,,OK
+M04,Claire Pemberton,Mid-Market,17-05-2024,Q2 2024,83560.31,78936.32,368433.15,119746.57,6,8,Yes,Customer procurement delay,OK
+M05,Nathan Griffiths,Mid-Market,17-05-2024,Q2 2024,85632.38,73835.45,425768.17,109771.19,1,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,17-05-2024,Q2 2024,65140.64,66773.34,248514.07,62325.15,1,1,Yes,,OK
+M07,Andrew Collinson,Mid-Market,17-05-2024,Q2 2024,34863.79,38322.62,126734.73,35614.33,1,8,Yes,Two deals slipped to next week,OK
+S01,Lucy Drummond,SMB,17-05-2024,Q2 2024,15639.76,17971.23,41864.66,10250,8,13,Yes,Revised following manager review,OK
+S02,Ben Hartley,SMB,17-05-2024,Q2 2024,29342.39,14671.1,117627.31,23094.82,7,12,Yes,Large renewal included,OK
+S03,Fiona McKenzie,SMB,17-05-2024,Q2 2024,19502.46,15021.17,96209.14,27909.68,4,7,No,Forecast includes upsell opportunity,OK
+S04,Callum Reid,SMB,17-05-2024,Q2 2024,22123.49,19861.16,85783,22928.25,10,2,Yes,Large renewal included,OK
+S05,Amara Osei,SMB,17-05-2024,Q2 2024,9221.99,8835.82,29917.22,7699.19,12,13,Yes,,OK
+S07,Rachel Sutton,SMB,17-05-2024,Q2 2024,8359.22,9010.41,35355.47,12168.88,11,9,Yes,Pipeline updated post-QBR,OK
+E01,James Whitfield,Enterprise,24-05-2024,Q2 2024,194235.55,200327.79,902715,262027.59,6,4,Yes,,OK
+E02,Sarah Thornton,Enterprise,24-05-2024,Q2 2024,108261.99,179619.75,19062.99,5742.26,4,7,Yes,,FLAG
+E03,Marcus Bellingham,Enterprise,24-05-2024,Q2 2024,88498.66,81688.08,343652.6,99731.78,4,6,Yes,Deal pulled forward from next quarter,OK
+E04,Olivia Hargreaves,Enterprise,24-05-2024,Q2 2024,162272.22,167074.8,458889.03,138095.99,4,8,Yes,Large renewal included,OK
+E05,Richard Cavendish,Enterprise,24-05-2024,Q2 2024,94126.52,92861.23,306770.55,57672.37,1,8,Yes,,OK
+E06,Helena Forsythe,Enterprise,24-05-2024,Q2 2024,158677.4,158331.24,708052.61,220144.98,5,6,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,24-05-2024,Q2 2024,60618.26,104005.95,247008.21,82715.04,2,3,Yes,,OK
+M02,Priya Mehta,Mid-Market,24-05-2024,Q2 2024,76153.16,64880.68,255364.4,49665.76,3,8,Yes,,OK
+M03,Tom Baxter,Mid-Market,24-05-2024,Q2 2024,119186.22,67309.03,25178.02,8571.08,1,8,Yes,,FLAG
+M04,Claire Pemberton,Mid-Market,24-05-2024,Q2 2024,55158.32,61542.06,237394.65,56620.23,3,5,No,,OK
+M05,Nathan Griffiths,Mid-Market,24-05-2024,Q2 2024,76893.79,74690.91,361588.16,98121.9,4,4,Yes,Pipeline updated post-QBR,OK
+M06,Yasmin Khalid,Mid-Market,24-05-2024,Q2 2024,62395.96,57878.93,269318,53533.72,1,5,No,,OK
+M07,Andrew Collinson,Mid-Market,24-05-2024,Q2 2024,44165.84,47422.07,149096.93,46729.09,6,4,Yes,,OK
+S01,Lucy Drummond,SMB,24-05-2024,Q2 2024,27214.29,31683.39,74311.93,15019.24,5,3,Yes,,OK
+S02,Ben Hartley,SMB,24-05-2024,Q2 2024,45068,22545.35,126995.8,25652.58,10,10,Yes,,OK
+S03,Fiona McKenzie,SMB,24-05-2024,Q2 2024,10979.08,10263.16,28553.34,6942.73,7,6,Yes,Large renewal included,OK
+S04,Callum Reid,SMB,24-05-2024,Q2 2024,21197.43,17194.59,3099.81,721.17,9,7,No,,FLAG
+S05,Amara Osei,SMB,24-05-2024,Q2 2024,27652.33,21974.13,115068.43,25266.7,8,11,Yes,Forecast includes upsell opportunity,OK
+S06,Steven Bowman,SMB,24-05-2024,Q2 2024,14962.99,8284.63,65747.93,17666.35,9,11,Yes,Verbal commit received – awaiting paperwork,OK
+S07,Rachel Sutton,SMB,24-05-2024,Q2 2024,24385.08,23187.75,90924.22,21621.11,4,2,Yes,Verbal commit received – awaiting paperwork,OK
+E01,James Whitfield,Enterprise,31-05-2024,Q2 2024,213303.06,219398.7,860931.38,158944.38,1,1,Yes,Deal pulled forward from next quarter,OK
+E02,Sarah Thornton,Enterprise,31-05-2024,Q2 2024,117443.22,203812.11,372673.05,102123.81,1,2,Yes,Revised following manager review,OK
+E03,Marcus Bellingham,Enterprise,31-05-2024,Q2 2024,136944.43,127827.4,610389.25,165949.43,2,4,Yes,Pipeline updated post-QBR,OK
+E04,Olivia Hargreaves,Enterprise,31-05-2024,Q2 2024,209053.5,201470.81,961378.36,230481.86,6,5,Yes,Revised following manager review,OK
+E05,Richard Cavendish,Enterprise,31-05-2024,Q2 2024,219834.98,233140.42,885080.51,207207.68,6,4,No,Pipeline updated post-QBR,OK
+E06,Helena Forsythe,Enterprise,31-05-2024,Q2 2024,98721.6,105391.36,8362.43,2295.36,6,8,Yes,,FLAG
+M01,Daniel Ashworth,Mid-Market,31-05-2024,Q2 2024,40032.43,69717.77,112567.58,23955.33,1,1,Yes,,OK
+M03,Tom Baxter,Mid-Market,31-05-2024,Q2 2024,93967.27,56201.64,260981.53,69174.55,2,7,Yes,,OK
+M04,Claire Pemberton,Mid-Market,31-05-2024,Q2 2024,46459.68,51305.43,231363.55,62606.99,3,1,Yes,Budget freeze reported by prospect,OK
+M06,Yasmin Khalid,Mid-Market,31-05-2024,Q2 2024,59734.48,60043.73,281319,63929.56,4,1,Yes,,OK
+M07,Andrew Collinson,Mid-Market,31-05-2024,Q2 2024,85019.71,77288.28,278610.85,54731.27,4,6,Yes,,OK
+S01,Lucy Drummond,SMB,31-05-2024,Q2 2024,33475.78,38091.25,120389.76,30807.44,3,11,Yes,Two deals slipped to next week,OK
+S02,Ben Hartley,SMB,31-05-2024,Q2 2024,34066.71,18000.38,157552.52,44893.22,8,6,Yes,Pipeline updated post-QBR,OK
+S03,Fiona McKenzie,SMB,31-05-2024,Q2 2024,16861.23,14268.66,42671.07,11981.64,5,3,No,Two deals slipped to next week,OK
+S05,Amara Osei,SMB,31-05-2024,Q2 2024,21854,23512.11,71638.06,22339.2,4,7,Yes,,OK
+S06,Steven Bowman,SMB,31-05-2024,Q2 2024,25602.98,14897.9,68385.8,17840.03,9,14,Yes,,OK
+S07,Rachel Sutton,SMB,31-05-2024,Q2 2024,8099.82,6978.1,29696.71,7772.43,7,5,Yes,Revised following manager review,OK
+E01,James Whitfield,Enterprise,07-06-2024,Q2 2024,107216,108686.4,96602,2012.8,3,6,Yes,Customer procurement delay,OK
+E02,Sarah Thornton,Enterprise,07-06-2024,Q2 2024,83501.49,137432,405224.74,141669.87,4,3,Yes,,OK
+E03,Marcus Bellingham,Enterprise,07-06-2024,Q2 2024,114236.95,105942.35,529612.62,108706.37,2,4,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,07-06-2024,Q2 2024,170310.02,170559.58,646706.47,194738.04,5,8,Yes,,OK
+E05,Richard Cavendish,Enterprise,07-06-2024,Q2 2024,135426,131222.35,532011,129596.95,5,7,Yes,,OK
+E06,Helena Forsythe,Enterprise,07-06-2024,Q2 2024,131451.67,131400,454287,99827.1,6,5,Yes,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,07-06-2024,Q2 2024,32542.85,59708.66,138766.19,48530.54,6,4,Yes,Pipeline updated post-QBR,OK
+M02,Priya Mehta,Mid-Market,07-06-2024,Q2 2024,60758.82,65519.16,283358.79,85848.39,2,3,Yes,,OK
+M03,Tom Baxter,Mid-Market,07-06-2024,Q2 2024,76233.54,41328.12,248820.92,65929.09,6,3,Yes,Pipeline updated post-QBR,OK
+M04,Claire Pemberton,Mid-Market,07-06-2024,Q2 2024,31932.54,28475.54,125190.79,41981.21,5,6,Yes,Forecast includes upsell opportunity,OK
+M06,Yasmin Khalid,Mid-Market,07-06-2024,Q2 2024,636174,54305.84,162174.78,54316.99,4,8,Yes,,FLAG
+M07,Andrew Collinson,Mid-Market,07-06-2024,Q2 2024,74588.57,72104.61,2710700,53407.01,6,4,Yes,,OK
+S01,Lucy Drummond,SMB,07-06-2024,Q2 2024,14664.68,13410.06,68896.13,19149.17,3,11,Yes,,OK
+S02,Ben Hartley,SMB,07-06-2024,Q2 2024,44223.5,22852.61,137059.16,31049.65,12,2,Yes,,OK
+S03,Fiona McKenzie,SMB,07-06-2024,Q2 2024,16802,16390.16,929.9,268.38,12,6,No,,FLAG
+S04,Callum Reid,SMB,07-06-2024,Q2 2024,9842.4,10080.73,42164.4,10964.17,6,5,Yes,Budget freeze reported by prospect,OK
+S05,Amara Osei,SMB,07-06-2024,Q2 2024,17668.35,15165.38,83601,21330.96,2,2,Yes,New logo opportunity added,OK
+S06,Steven Bowman,SMB,07-06-2024,Q2 2024,23715.58,12768.08,79276.24,23285.13,5,2,No,,OK
+S07,Rachel Sutton,SMB,07-06-2024,Q2 2024,22625.97,27591.5,69711.08,16380.19,2,3,Yes,Verbal commit received – awaiting paperwork,OK
+E01,James Whitfield,Enterprise,14-06-2024,Q2 2024,137553.56,139908.87,681957,184913.23,5,8,Yes,,OK
+E02,Sarah Thornton,Enterprise,14-06-2024,Q2 2024,138327.67,231659.27,478050.53,104937.99,5,8,Yes,Verbal commit received – awaiting paperwork,OK
+E03,Marcus Bellingham,Enterprise,14-06-2024,Q2 2024,132433.31,130709.47,455487,100421.65,6,3,Yes,Forecast includes upsell opportunity,OK
+E04,Olivia Hargreaves,Enterprise,14-06-2024,Q2 2024,112061.4,113731.55,3481020,116283.17,6,6,No,Two deals slipped to next week,OK
+E05,Richard Cavendish,Enterprise,14-06-2024,Q2 2024,99814.48,97925,292874.61,92311.04,2,2,Yes,,OK
+E06,Helena Forsythe,Enterprise,14-06-2024,Q2 2024,168984,166517.2,456264.97,113017.55,2,8,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,14-06-2024,Q2 2024,48133.56,78703.46,165476.77,31809.56,2,5,Yes,,OK
+M02,Priya Mehta,Mid-Market,14-06-2024,Q2 2024,52388.69,52323.01,12275.75,3012.72,5,2,Yes,Deal pulled forward from next quarter,FLAG
+M03,Tom Baxter,Mid-Market,14-06-2024,Q2 2024,43715.08,23665.92,137847.95,40772.84,3,3,Yes,Verbal commit received – awaiting paperwork,OK
+M04,Claire Pemberton,Mid-Market,14-06-2024,Q2 2024,41329.4,40947.24,129451.03,44596.68,6,7,No,New logo opportunity added,OK
+M05,Nathan Griffiths,Mid-Market,14-06-2024,Q2 2024,53878.21,52637.51,3446.5,1028.34,5,3,Yes,,FLAG
+M06,Yasmin Khalid,Mid-Market,14-06-2024,Q2 2024,42754.4,41220.07,1793375,67120.96,4,3,Yes,Customer procurement delay,OK
+S01,Lucy Drummond,SMB,14-06-2024,Q2 2024,33790.77,34908.04,167907.93,45133.13,2,14,Yes,Deal pulled forward from next quarter,OK
+S02,Ben Hartley,SMB,14-06-2024,Q2 2024,33892.83,18073.52,7595.66,1886.06,4,7,Yes,New logo opportunity added,FLAG
+S04,Callum Reid,SMB,14-06-2024,Q2 2024,33432.32,32243.35,7071.32,1664.16,9,12,Yes,Customer procurement delay,FLAG
+S05,Amara Osei,SMB,14-06-2024,Q2 2024,15934.3,14962.55,74487.23,23346.27,10,4,Yes,,OK
+S06,Steven Bowman,SMB,14-06-2024,Q2 2024,18733.39,9073.74,4417.35,1040.31,8,8,Yes,,FLAG
+S07,Rachel Sutton,SMB,14-06-2024,Q2 2024,26678.18,28662.72,117806.68,34102.41,8,11,No,Customer procurement delay,OK
+E01,James Whitfield,Enterprise,21-06-2024,Q2 2024,95593.55,94616.13,416935.52,101113.24,3,4,No,,OK
+E02,Sarah Thornton,Enterprise,21-06-2024,Q2 2024,154611.27,271575.29,539327.55,139309.64,2,2,Yes,Two deals slipped to next week,OK
+E03,Marcus Bellingham,Enterprise,21-06-2024,Q2 2024,123244.8,127112.4,392366.01,108911.09,6,2,Yes,Deal pulled forward from next quarter,OK
+E04,Olivia Hargreaves,Enterprise,21-06-2024,Q2 2024,87359.28,89402.41,405517.16,93612.54,6,3,No,Forecast includes upsell opportunity,OK
+E05,Richard Cavendish,Enterprise,21-06-2024,Q2 2024,209228.93,211921.91,573977.5,180525.78,1,7,Yes,New logo opportunity added,OK
+E06,Helena Forsythe,Enterprise,21-06-2024,Q2 2024,81278.55,82453.94,341028.1,69942.45,4,2,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,21-06-2024,Q2 2024,30177.88,47390.38,112308.93,38440.47,6,7,Yes,,OK
+M02,Priya Mehta,Mid-Market,21-06-2024,Q2 2024,65211.03,69024.7,207652.26,65418.44,2,8,Yes,Pipeline updated post-QBR,OK
+M03,Tom Baxter,Mid-Market,21-06-2024,Q2 2024,106952.33,52038.03,468854,136886.28,1,2,Yes,Large renewal included,OK
+M04,Claire Pemberton,Mid-Market,21-06-2024,Q2 2024,45405.63,46784.52,224749.74,54345.64,5,2,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,21-06-2024,Q2 2024,48776.16,51180.53,195857.28,58159.46,6,6,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,21-06-2024,Q2 2024,73746.26,73056.13,232425.08,48289.63,4,5,Yes,New logo opportunity added,OK
+M07,Andrew Collinson,Mid-Market,21-06-2024,Q2 2024,63818.53,64950.19,226505.76,78986.26,4,3,Yes,,OK
+S01,Lucy Drummond,SMB,21-06-2024,Q2 2024,29007.92,26956.07,3638.5,1254.16,8,14,No,,FLAG
+S02,Ben Hartley,SMB,21-06-2024,Q2 2024,31811.53,15387.7,110510.33,33818.43,10,14,Yes,Budget freeze reported by prospect,OK
+S03,Fiona McKenzie,SMB,21-06-2024,Q2 2024,27586.32,30204.26,122588.65,30782.19,9,13,Yes,Verbal commit received – awaiting paperwork,OK
+S04,Callum Reid,SMB,21-06-2024,Q2 2024,18975.9,18265.2,77548.65,17123.23,3,3,Yes,Revised following manager review,OK
+S05,Amara Osei,SMB,21-06-2024,Q2 2024,21905.31,24086.88,92981.58,26478.24,2,10,Yes,,OK
+S07,Rachel Sutton,SMB,21-06-2024,Q2 2024,12550.37,13630.17,47801.75,9214.78,4,14,Yes,Customer procurement delay,OK
+E01,James Whitfield,Enterprise,28-06-2024,Q2 2024,147637.46,145414.63,641494,139184.2,3,1,No,Forecast includes upsell opportunity,OK
+E02,Sarah Thornton,Enterprise,28-06-2024,Q2 2024,63074.6,101158.7,225618.44,60904.89,2,2,Yes,,OK
+E03,Marcus Bellingham,Enterprise,28-06-2024,Q2 2024,95217,94842.96,276566.81,70185.25,3,8,No,Large renewal included,OK
+E04,Olivia Hargreaves,Enterprise,28-06-2024,Q2 2024,212772.62,219032.54,595120.92,157258.61,6,5,Yes,Deal pulled forward from next quarter,OK
+E05,Richard Cavendish,Enterprise,28-06-2024,Q2 2024,196177.01,195293.93,703455.69,184733.07,4,1,Yes,,OK
+E06,Helena Forsythe,Enterprise,28-06-2024,Q2 2024,178904.53,182453.45,531645,152536.77,2,3,Yes,Two deals slipped to next week,OK
+M01,Daniel Ashworth,Mid-Market,28-06-2024,Q2 2024,43171.02,75843.74,159645,46210.86,3,7,Yes,,OK
+M02,Priya Mehta,Mid-Market,28-06-2024,Q2 2024,58323.49,61182.38,208638.8,54980.22,3,2,Yes,,OK
+M03,Tom Baxter,Mid-Market,28-06-2024,Q2 2024,69082.58,36603.03,195242.12,39138.28,5,2,No,New logo opportunity added,OK
+M04,Claire Pemberton,Mid-Market,28-06-2024,Q2 2024,39220.34,37468.75,152027.42,50032.65,5,7,No,,OK
+M05,Nathan Griffiths,Mid-Market,28-06-2024,Q2 2024,88049.22,85826.75,394986.67,120834.95,4,1,Yes,New logo opportunity added,OK
+M06,Yasmin Khalid,Mid-Market,28-06-2024,Q2 2024,39600.18,38259.2,186037.21,47890.62,6,1,No,Two deals slipped to next week,OK
+M07,Andrew Collinson,Mid-Market,28-06-2024,Q2 2024,86522.76,84215.27,274803.83,79476.08,2,3,No,,OK
+S01,Lucy Drummond,SMB,28-06-2024,Q2 2024,11607.51,12532.25,2474.54,792.02,5,6,Yes,,FLAG
+S02,Ben Hartley,SMB,28-06-2024,Q2 2024,20336.2,10117.03,62057.91,17306.89,8,9,Yes,Large renewal included,OK
+S03,Fiona McKenzie,SMB,28-06-2024,Q2 2024,21244,22219.01,68089.36,22503.06,8,12,No,Revised following manager review,OK
+S04,Callum Reid,SMB,28-06-2024,Q2 2024,29815.8,30431.76,8103161,18806.83,12,8,No,,OK
+S05,Amara Osei,SMB,28-06-2024,Q2 2024,10294.06,9551.3,40220.21,8355.13,7,14,Yes,,OK
+S06,Steven Bowman,SMB,28-06-2024,Q2 2024,43810.74,21833.66,140944.21,41768.95,12,12,No,,OK
+S07,Rachel Sutton,SMB,28-06-2024,Q2 2024,32929.63,35694.89,132089.5,35688.17,11,2,Yes,Budget freeze reported by prospect,OK
+E01,James Whitfield,Enterprise,05-07-2024,Q3 2024,179582.94,80890.57,798149.19,163718.46,4,3,Yes,,OK
+E02,Sarah Thornton,Enterprise,05-07-2024,Q3 2024,104837.3,85089.69,298320.11,100436.28,4,6,Yes,Deal pulled forward from next quarter,OK
+E03,Marcus Bellingham,Enterprise,05-07-2024,Q3 2024,112927.03,73264.92,384629.02,77968.44,1,1,Yes,New logo opportunity added,OK
+E04,Olivia Hargreaves,Enterprise,05-07-2024,Q3 2024,87821,56417.25,21339.03,5189.36,6,3,Yes,,FLAG
+E05,Richard Cavendish,Enterprise,05-07-2024,Q3 2024,138309.28,75233.74,604448,139577.04,4,3,Yes,Large renewal included,OK
+M01,Daniel Ashworth,Mid-Market,05-07-2024,Q3 2024,52712.27,43602.41,225259.65,46551.28,1,5,Yes,Verbal commit received – awaiting paperwork,OK
+M02,Priya Mehta,Mid-Market,05-07-2024,Q3 2024,582106,33607.34,169208.69,49058.68,2,7,Yes,Pipeline updated post-QBR,FLAG
+M03,Tom Baxter,Mid-Market,05-07-2024,Q3 2024,66210.57,22160.51,179602.68,33698.61,4,5,Yes,,OK
+M04,Claire Pemberton,Mid-Market,05-07-2024,Q3 2024,88431.04,41516.25,419276.16,111263.36,2,7,Yes,Deal pulled forward from next quarter,OK
+M05,Nathan Griffiths,Mid-Market,05-07-2024,Q3 2024,78448.56,47364.51,390951.67,136319.92,5,3,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,05-07-2024,Q3 2024,89820.57,57629.16,18257.24,4247.04,1,8,Yes,,FLAG
+M07,Andrew Collinson,Mid-Market,05-07-2024,Q3 2024,58395.66,36516.65,283194.04,74481.17,3,3,Yes,,OK
+S01,Lucy Drummond,SMB,05-07-2024,Q3 2024,31690.03,14530.99,83745.56,25036.3,10,12,Yes,,OK
+S02,Ben Hartley,SMB,05-07-2024,Q3 2024,34129.47,11841.26,94568.36,23403.84,8,13,Yes,Two deals slipped to next week,OK
+S03,Fiona McKenzie,SMB,05-07-2024,Q3 2024,33610,16559.65,86657.99,21200.74,7,11,No,Revised following manager review,OK
+S05,Amara Osei,SMB,05-07-2024,Q3 2024,16055.09,10022.52,48731.42,10296.62,2,10,Yes,,OK
+S06,Steven Bowman,SMB,05-07-2024,Q3 2024,34747.37,16201.66,104117.01,28980.26,4,11,Yes,,OK
+S07,Rachel Sutton,SMB,05-07-2024,Q3 2024,34682.44,21553.52,125665.64,24701.57,5,12,Yes,,OK
+E01,James Whitfield,Enterprise,12-07-2024,Q3 2024,82266.78,45281.04,349493.36,90001.38,4,2,Yes,,OK
+E02,Sarah Thornton,Enterprise,12-07-2024,Q3 2024,149974.2,100475.13,748132.5,147866.93,6,2,Yes,Forecast includes upsell opportunity,OK
+E03,Marcus Bellingham,Enterprise,12-07-2024,Q3 2024,109661.96,61445.52,327768.69,65932.28,4,2,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,12-07-2024,Q3 2024,80582.06,36788.52,232353.4,74083.6,6,1,Yes,,OK
+E05,Richard Cavendish,Enterprise,12-07-2024,Q3 2024,211514.84,125983.01,1006901.26,256113.66,1,7,Yes,Large renewal included,OK
+E06,Helena Forsythe,Enterprise,12-07-2024,Q3 2024,108526.76,58331.42,278864.49,93838.19,1,3,Yes,Deal pulled forward from next quarter,OK
+M01,Daniel Ashworth,Mid-Market,12-07-2024,Q3 2024,60697.84,36103.32,293622.15,84717.54,5,2,Yes,New logo opportunity added,OK
+M02,Priya Mehta,Mid-Market,12-07-2024,Q3 2024,59462.22,27633,179917.21,59597.81,6,2,No,,OK
+M03,Tom Baxter,Mid-Market,12-07-2024,Q3 2024,79971.2,28435.68,385177.92,71267.31,1,5,Yes,Budget freeze reported by prospect,OK
+M04,Claire Pemberton,Mid-Market,12-07-2024,Q3 2024,41954.25,24820.84,153871.81,39103.53,4,5,No,,OK
+M05,Nathan Griffiths,Mid-Market,12-07-2024,Q3 2024,77645.97,42516.32,276368.67,88079.16,5,8,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,12-07-2024,Q3 2024,54588.5,34142.4,1908208,60595.13,4,6,No,,OK
+M07,Andrew Collinson,Mid-Market,12-07-2024,Q3 2024,64048.16,31801.81,221861.35,59821.5,1,2,Yes,New logo opportunity added,OK
+S02,Ben Hartley,SMB,12-07-2024,Q3 2024,12152.87,5007.38,40313.33,11206.72,6,11,Yes,,OK
+S03,Fiona McKenzie,SMB,12-07-2024,Q3 2024,9875.26,6028.87,32119.24,7669.76,3,13,No,,OK
+S04,Callum Reid,SMB,12-07-2024,Q3 2024,10774.08,6627.04,29767.04,8837.59,8,4,Yes,Two deals slipped to next week,OK
+S05,Amara Osei,SMB,12-07-2024,Q3 2024,33572.91,17319.12,150375.41,44928.11,4,11,Yes,,OK
+S06,Steven Bowman,SMB,12-07-2024,Q3 2024,32988.22,12140.91,122279.61,37937.78,3,13,Yes,,OK
+S07,Rachel Sutton,SMB,12-07-2024,Q3 2024,10822.44,6148.28,40960.96,13949.04,9,10,Yes,,OK
+E01,James Whitfield,Enterprise,19-07-2024,Q3 2024,118897.38,60807.61,341024.36,104576.63,2,2,Yes,,OK
+E02,Sarah Thornton,Enterprise,19-07-2024,Q3 2024,75734.98,46563.76,9580.82,3236.05,2,5,Yes,Deal pulled forward from next quarter,FLAG
+E03,Marcus Bellingham,Enterprise,19-07-2024,Q3 2024,205308.18,102192.85,654655.67,195687.77,4,2,Yes,Pipeline updated post-QBR,OK
+E04,Olivia Hargreaves,Enterprise,19-07-2024,Q3 2024,150453,82050.13,6916812,145591.66,6,5,Yes,Pipeline updated post-QBR,OK
+E05,Richard Cavendish,Enterprise,19-07-2024,Q3 2024,215735.81,118150.19,11537.16,3410.47,3,4,Yes,,FLAG
+E06,Helena Forsythe,Enterprise,19-07-2024,Q3 2024,148109.06,67050.78,481774.36,129130.6,6,6,Yes,Revised following manager review,OK
+M01,Daniel Ashworth,Mid-Market,19-07-2024,Q3 2024,23266.98,17078.48,101465.29,34733.44,6,4,Yes,,OK
+M02,Priya Mehta,Mid-Market,19-07-2024,Q3 2024,46574,26356.85,213565.56,67317.27,5,6,No,,OK
+M03,Tom Baxter,Mid-Market,19-07-2024,Q3 2024,51940,20233.84,135168.34,37958.27,1,8,Yes,,OK
+M04,Claire Pemberton,Mid-Market,19-07-2024,Q3 2024,76133.12,35569.45,217482.69,55120.69,1,5,Yes,Forecast includes upsell opportunity,OK
+M05,Nathan Griffiths,Mid-Market,19-07-2024,Q3 2024,40398.12,25256.36,170007.52,34522.99,5,3,Yes,Customer procurement delay,OK
+M06,Yasmin Khalid,Mid-Market,19-07-2024,Q3 2024,56514.08,35998.11,207460.2,52173.33,4,6,Yes,Revised following manager review,OK
+M07,Andrew Collinson,Mid-Market,19-07-2024,Q3 2024,83994.74,38696.98,236431.73,61159.53,5,7,Yes,,OK
+S01,Lucy Drummond,SMB,19-07-2024,Q3 2024,31336.48,17765.39,2852.02,583.26,9,10,Yes,,FLAG
+S02,Ben Hartley,SMB,19-07-2024,Q3 2024,28874.07,10024.51,2147,534.15,4,10,Yes,Deal pulled forward from next quarter,FLAG
+S03,Fiona McKenzie,SMB,19-07-2024,Q3 2024,28024.95,15280.09,90341.85,25303.84,7,6,No,Pipeline updated post-QBR,OK
+S04,Callum Reid,SMB,19-07-2024,Q3 2024,8920.26,5186.58,23251.36,7990.92,9,9,No,,OK
+S05,Amara Osei,SMB,19-07-2024,Q3 2024,12711.42,7387.71,42560.71,13352.93,6,11,Yes,,OK
+S06,Steven Bowman,SMB,19-07-2024,Q3 2024,36450.33,15215.42,8033.88,1663.5,3,15,Yes,Large renewal included,FLAG
+S07,Rachel Sutton,SMB,19-07-2024,Q3 2024,18370.25,11655.47,74027.7,23981.74,3,2,Yes,New logo opportunity added,OK
+E01,James Whitfield,Enterprise,26-07-2024,Q3 2024,148754.42,73648.21,533308.04,167619.1,1,3,Yes,,OK
+E02,Sarah Thornton,Enterprise,26-07-2024,Q3 2024,147918.55,102281.71,6646223,190759.82,1,3,Yes,,OK
+E03,Marcus Bellingham,Enterprise,26-07-2024,Q3 2024,202006.27,93923.91,935892.62,248019.02,4,4,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,26-07-2024,Q3 2024,204323.92,100291.72,982887.09,323670.55,2,6,Yes,,OK
+E05,Richard Cavendish,Enterprise,26-07-2024,Q3 2024,117871.18,53881.27,486317.9,112622.04,2,4,Yes,,OK
+E06,Helena Forsythe,Enterprise,26-07-2024,Q3 2024,1778361,94953.54,494654.26,140808.8,3,3,Yes,Deal pulled forward from next quarter,FLAG
+M01,Daniel Ashworth,Mid-Market,26-07-2024,Q3 2024,27052.57,15871.02,108373.66,37895.57,2,6,Yes,,OK
+M02,Priya Mehta,Mid-Market,26-07-2024,Q3 2024,81525.61,41622.39,362831.44,105627.29,5,6,No,Revised following manager review,OK
+M03,Tom Baxter,Mid-Market,26-07-2024,Q3 2024,83025.06,29070.77,215007.43,54794.03,4,3,No,,OK
+M04,Claire Pemberton,Mid-Market,26-07-2024,Q3 2024,31130.91,16773.46,93838.69,23767.88,1,4,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,26-07-2024,Q3 2024,31640.71,18171.45,141007.82,43417.45,1,7,Yes,Deal pulled forward from next quarter,OK
+M06,Yasmin Khalid,Mid-Market,26-07-2024,Q3 2024,30911,19789.02,1594462,35571.27,5,2,Yes,,OK
+M07,Andrew Collinson,Mid-Market,26-07-2024,Q3 2024,80855.56,36664.22,296424.47,77555.12,5,1,Yes,Budget freeze reported by prospect,OK
+S01,Lucy Drummond,SMB,26-07-2024,Q3 2024,21363.08,10358.94,1557.14,290.48,12,15,Yes,Pipeline updated post-QBR,FLAG
+S02,Ben Hartley,SMB,26-07-2024,Q3 2024,42735.64,17760.38,1185502,23610.46,3,7,Yes,,OK
+S03,Fiona McKenzie,SMB,26-07-2024,Q3 2024,18117.32,9218.32,4276.81,1432.81,2,2,Yes,Verbal commit received – awaiting paperwork,FLAG
+S04,Callum Reid,SMB,26-07-2024,Q3 2024,33882.88,19078.79,138100.21,37511.39,3,11,Yes,,OK
+S05,Amara Osei,SMB,26-07-2024,Q3 2024,28726.37,15545.69,141649.52,36212.88,8,13,Yes,Revised following manager review,OK
+S06,Steven Bowman,SMB,26-07-2024,Q3 2024,19982.63,8522.3,662959,14691.76,3,11,Yes,,OK
+S07,Rachel Sutton,SMB,26-07-2024,Q3 2024,20686.23,12905.97,74026.69,25782.66,4,15,Yes,,OK
+E01,James Whitfield,Enterprise,02-08-2024,Q3 2024,166328.14,76352.52,810816.04,232899.97,6,6,Yes,,OK
+E02,Sarah Thornton,Enterprise,02-08-2024,Q3 2024,129237.15,94300.44,628340.71,144863.48,3,5,Yes,New logo opportunity added,OK
+E03,Marcus Bellingham,Enterprise,02-08-2024,Q3 2024,118955.87,61009.31,382083.57,86562.65,4,6,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,02-08-2024,Q3 2024,83829.02,53815.83,210969.37,38898.98,2,4,Yes,Customer procurement delay,OK
+E05,Richard Cavendish,Enterprise,02-08-2024,Q3 2024,140517.23,87528.26,608310.95,146075.29,1,5,Yes,Verbal commit received – awaiting paperwork,OK
+E06,Helena Forsythe,Enterprise,02-08-2024,Q3 2024,124073.39,66587.15,369242,119042.87,6,6,Yes,Large renewal included,OK
+M01,Daniel Ashworth,Mid-Market,02-08-2024,Q3 2024,33452.08,30059.65,83897.62,23056.35,2,4,Yes,Forecast includes upsell opportunity,OK
+M02,Priya Mehta,Mid-Market,02-08-2024,Q3 2024,82502.34,45214.95,329564.3,75872.6,2,7,Yes,,OK
+M03,Tom Baxter,Mid-Market,02-08-2024,Q3 2024,97472.77,44164.63,390149.09,72147.79,3,8,Yes,Budget freeze reported by prospect,OK
+M04,Claire Pemberton,Mid-Market,02-08-2024,Q3 2024,43136.89,19805.26,152037,31671.02,2,8,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,02-08-2024,Q3 2024,76010.52,44161.07,8258834,53498.17,5,4,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,02-08-2024,Q3 2024,59094,30155.27,241037.84,44770.91,6,4,Yes,,OK
+S01,Lucy Drummond,SMB,02-08-2024,Q3 2024,22625.84,10614.04,101398.85,28692.59,6,11,Yes,Forecast includes upsell opportunity,OK
+S02,Ben Hartley,SMB,02-08-2024,Q3 2024,178591,7096.8,71259.8,13035.28,9,13,Yes,Forecast includes upsell opportunity,OK
+S03,Fiona McKenzie,SMB,02-08-2024,Q3 2024,29861.38,14007.31,90157.62,25323.44,3,4,Yes,,OK
+S04,Callum Reid,SMB,02-08-2024,Q3 2024,24165.71,12170.55,106029.35,28919.52,7,5,No,Verbal commit received – awaiting paperwork,OK
+S05,Amara Osei,SMB,02-08-2024,Q3 2024,628435,17051.04,85120.69,16966.51,8,4,Yes,Budget freeze reported by prospect,FLAG
+S06,Steven Bowman,SMB,02-08-2024,Q3 2024,33590.07,11769.96,141500.18,48370.31,7,10,Yes,,OK
+S07,Rachel Sutton,SMB,02-08-2024,Q3 2024,20794.5,10102.91,55471.83,12925.65,5,9,Yes,Deal pulled forward from next quarter,OK
+E01,James Whitfield,Enterprise,09-08-2024,Q3 2024,81978.13,41549.59,324729.38,92926.24,4,7,No,Revised following manager review,OK
+E02,Sarah Thornton,Enterprise,09-08-2024,Q3 2024,124423.51,98047.73,611746.49,174164.73,4,5,Yes,Verbal commit received – awaiting paperwork,OK
+E03,Marcus Bellingham,Enterprise,09-08-2024,Q3 2024,87306.49,46965.46,289658.77,57914.49,5,8,Yes,Large renewal included,OK
+E04,Olivia Hargreaves,Enterprise,09-08-2024,Q3 2024,196704.69,121558.62,732770.96,217275.74,5,8,No,,OK
+E05,Richard Cavendish,Enterprise,09-08-2024,Q3 2024,219706.02,115673.35,10061835,226481.06,3,3,Yes,Budget freeze reported by prospect,OK
+E06,Helena Forsythe,Enterprise,09-08-2024,Q3 2024,135761.16,80214.87,551621.49,176499.78,6,5,No,,OK
+M02,Priya Mehta,Mid-Market,09-08-2024,Q3 2024,39191.51,24462.66,1060953,21250.86,4,3,Yes,Large renewal included,OK
+M03,Tom Baxter,Mid-Market,09-08-2024,Q3 2024,88141.2,41611.63,312103.32,59440.76,2,7,Yes,Pipeline updated post-QBR,OK
+M04,Claire Pemberton,Mid-Market,09-08-2024,Q3 2024,63633.56,34568.96,249155.51,49772.42,1,2,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,09-08-2024,Q3 2024,44803.93,25917.44,195726.9,45561.86,4,4,No,Budget freeze reported by prospect,OK
+M07,Andrew Collinson,Mid-Market,09-08-2024,Q3 2024,45872.71,25951.99,203258.59,65249.06,6,6,Yes,Forecast includes upsell opportunity,OK
+S01,Lucy Drummond,SMB,09-08-2024,Q3 2024,26890.65,16563.88,85307.24,18411.24,5,14,Yes,,OK
+S02,Ben Hartley,SMB,09-08-2024,Q3 2024,32514.21,13354.77,108652.08,23013.48,7,7,Yes,,OK
+S03,Fiona McKenzie,SMB,09-08-2024,Q3 2024,14819.52,7670.22,3494.41,768.18,10,12,Yes,,FLAG
+S05,Amara Osei,SMB,09-08-2024,Q3 2024,28299.95,14620.59,139400.27,43240.56,7,2,Yes,New logo opportunity added,OK
+S06,Steven Bowman,SMB,09-08-2024,Q3 2024,37347.19,16672.09,137936.63,35868.51,12,2,Yes,,OK
+S07,Rachel Sutton,SMB,09-08-2024,Q3 2024,32246.57,19221.36,128739.52,30764.55,12,8,Yes,,OK
+E01,James Whitfield,Enterprise,16-08-2024,Q3 2024,208042.04,99364.2,543118.67,106334.25,4,4,Yes,Large renewal included,OK
+E02,Sarah Thornton,Enterprise,16-08-2024,Q3 2024,109653,79149.78,453930.67,143975.76,2,2,Yes,Budget freeze reported by prospect,OK
+E03,Marcus Bellingham,Enterprise,16-08-2024,Q3 2024,96234.18,60785.57,428483.53,138618.12,3,6,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,16-08-2024,Q3 2024,181868.03,83606.32,472786,122093.53,1,5,No,Forecast includes upsell opportunity,OK
+E05,Richard Cavendish,Enterprise,16-08-2024,Q3 2024,82452.66,47591.39,16303.86,3623.8,1,2,Yes,,FLAG
+E06,Helena Forsythe,Enterprise,16-08-2024,Q3 2024,85689.74,39216.55,296039.4,57251.07,6,2,Yes,Customer procurement delay,OK
+M01,Daniel Ashworth,Mid-Market,16-08-2024,Q3 2024,47447.63,35842.74,7813.07,1692.2,4,4,Yes,,FLAG
+M02,Priya Mehta,Mid-Market,16-08-2024,Q3 2024,46486.12,28265.96,127505.35,38319.37,2,6,Yes,,OK
+M03,Tom Baxter,Mid-Market,16-08-2024,Q3 2024,68362.43,30393.74,261869.2,64501.11,4,4,Yes,,OK
+M04,Claire Pemberton,Mid-Market,16-08-2024,Q3 2024,58042.81,32909.54,227076.87,70402.87,3,6,Yes,Customer procurement delay,OK
+M05,Nathan Griffiths,Mid-Market,16-08-2024,Q3 2024,40717.35,24654.55,157786.88,34242.58,5,7,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,16-08-2024,Q3 2024,54237.96,27512.57,156878.93,38907.42,1,8,Yes,Pipeline updated post-QBR,OK
+M07,Andrew Collinson,Mid-Market,16-08-2024,Q3 2024,38314.32,24895.96,186350.23,41461.05,5,7,Yes,Deal pulled forward from next quarter,OK
+S01,Lucy Drummond,SMB,16-08-2024,Q3 2024,33302.8,17135.79,5512.3,1422.52,12,6,Yes,Deal pulled forward from next quarter,FLAG
+S02,Ben Hartley,SMB,16-08-2024,Q3 2024,44292.69,19895,168286,41314.95,8,15,No,Two deals slipped to next week,OK
+S03,Fiona McKenzie,SMB,16-08-2024,Q3 2024,18756.71,11324.41,65621.74,18831.84,9,7,Yes,Revised following manager review,OK
+S04,Callum Reid,SMB,16-08-2024,Q3 2024,29479.93,13838.62,124826.59,37515.89,5,12,Yes,Revised following manager review,OK
+S05,Amara Osei,SMB,16-08-2024,Q3 2024,8700.39,4895.78,28085.27,5811.16,12,13,Yes,Deal pulled forward from next quarter,OK
+S07,Rachel Sutton,SMB,16-08-2024,Q3 2024,16179.83,8120.4,61021.88,16345.26,9,13,Yes,Large renewal included,OK
+E01,James Whitfield,Enterprise,23-08-2024,Q3 2024,147487.35,77574.58,494955.37,107965.95,3,2,Yes,,OK
+E02,Sarah Thornton,Enterprise,23-08-2024,Q3 2024,146430.73,105732.45,551830.27,189543.52,6,6,Yes,Deal pulled forward from next quarter,OK
+E03,Marcus Bellingham,Enterprise,23-08-2024,Q3 2024,180433.25,116537.41,700070.01,148626.55,1,5,No,Two deals slipped to next week,OK
+E04,Olivia Hargreaves,Enterprise,23-08-2024,Q3 2024,168746.8,79864.7,622690.79,174474.16,5,2,Yes,,OK
+E05,Richard Cavendish,Enterprise,23-08-2024,Q3 2024,218913.28,116337.91,816877.7,217485.36,5,5,Yes,Large renewal included,OK
+E06,Helena Forsythe,Enterprise,23-08-2024,Q3 2024,124689.06,67843.47,367457.14,108181.57,1,3,No,,OK
+M01,Daniel Ashworth,Mid-Market,23-08-2024,Q3 2024,55372.97,41540.34,160081.55,50199.64,2,6,Yes,Forecast includes upsell opportunity,OK
+M02,Priya Mehta,Mid-Market,23-08-2024,Q3 2024,48373.94,29790.91,1753230,43286.94,4,6,Yes,Budget freeze reported by prospect,OK
+M03,Tom Baxter,Mid-Market,23-08-2024,Q3 2024,72276.16,26997.56,324786,82761.27,3,4,Yes,,OK
+M04,Claire Pemberton,Mid-Market,23-08-2024,Q3 2024,89215.75,41205.49,365701.76,88794.69,3,1,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,23-08-2024,Q3 2024,44713.6,26942.51,174011.3,51720.84,2,5,No,Deal pulled forward from next quarter,OK
+M07,Andrew Collinson,Mid-Market,23-08-2024,Q3 2024,49980.73,29529.22,200374,40845.59,6,5,Yes,,OK
+S01,Lucy Drummond,SMB,23-08-2024,Q3 2024,16830.89,8525.34,68769.92,18987.52,10,7,Yes,,OK
+S02,Ben Hartley,SMB,23-08-2024,Q3 2024,28792,9884.74,77237,18364.58,10,7,Yes,,OK
+S03,Fiona McKenzie,SMB,23-08-2024,Q3 2024,31100.52,18770.9,113342.2,35236.7,11,10,No,Two deals slipped to next week,OK
+S04,Callum Reid,SMB,23-08-2024,Q3 2024,22582.06,11640.88,108871.8,23330.06,4,7,Yes,Pipeline updated post-QBR,OK
+S05,Amara Osei,SMB,23-08-2024,Q3 2024,28086.44,14775.81,101009.16,31420.64,11,9,Yes,,OK
+S06,Steven Bowman,SMB,23-08-2024,Q3 2024,46223.92,17336.12,5824.48,1464.29,3,3,Yes,Pipeline updated post-QBR,FLAG
+S07,Rachel Sutton,SMB,23-08-2024,Q3 2024,15417.34,7934.6,71205.53,12929.26,10,4,Yes,Large renewal included,OK
+E01,James Whitfield,Enterprise,30-08-2024,Q3 2024,5104449,50164.48,356450,111823.84,1,3,Yes,Revised following manager review,FLAG
+E02,Sarah Thornton,Enterprise,30-08-2024,Q3 2024,64030.25,48016.55,1767101,38365.32,4,3,No,Revised following manager review,OK
+E03,Marcus Bellingham,Enterprise,30-08-2024,Q3 2024,155598.05,90820.47,574853.06,186732.19,2,2,Yes,Deal pulled forward from next quarter,OK
+E04,Olivia Hargreaves,Enterprise,30-08-2024,Q3 2024,105847.75,54588.34,441479.4,122783.55,3,8,Yes,,OK
+E05,Richard Cavendish,Enterprise,30-08-2024,Q3 2024,191187.28,86581.9,877252.84,217076.05,1,1,Yes,Budget freeze reported by prospect,OK
+E06,Helena Forsythe,Enterprise,30-08-2024,Q3 2024,96494.68,58254.05,322594.88,72067.16,4,6,Yes,Pipeline updated post-QBR,OK
+M01,Daniel Ashworth,Mid-Market,30-08-2024,Q3 2024,28340.21,17743.33,79798.88,20503.21,5,5,No,Pipeline updated post-QBR,OK
+M02,Priya Mehta,Mid-Market,30-08-2024,Q3 2024,74675.75,45252.57,336089.4,73661.39,5,1,Yes,,OK
+M03,Tom Baxter,Mid-Market,30-08-2024,Q3 2024,58854.48,22337.19,279699.55,92842.51,4,7,Yes,Two deals slipped to next week,OK
+M04,Claire Pemberton,Mid-Market,30-08-2024,Q3 2024,38418.2,18519.51,133622.16,33570.11,5,4,Yes,Revised following manager review,OK
+M05,Nathan Griffiths,Mid-Market,30-08-2024,Q3 2024,38544.51,19869.46,146528.89,45597.13,5,2,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,30-08-2024,Q3 2024,86969.27,53711.83,241956.69,67613.92,6,5,No,Deal pulled forward from next quarter,OK
+M07,Andrew Collinson,Mid-Market,30-08-2024,Q3 2024,69894.64,44917.71,184635.86,57401.58,6,7,Yes,,OK
+S01,Lucy Drummond,SMB,30-08-2024,Q3 2024,21364.35,12458.1,106677.7,28049.46,11,3,Yes,Customer procurement delay,OK
+S02,Ben Hartley,SMB,30-08-2024,Q3 2024,197929,8243.27,68989,16491.4,9,15,Yes,Forecast includes upsell opportunity,OK
+S03,Fiona McKenzie,SMB,30-08-2024,Q3 2024,29651.17,18380.35,100709.38,24160.62,5,6,Yes,,OK
+S04,Callum Reid,SMB,30-08-2024,Q3 2024,27999.03,16972.83,129125.91,30569.24,11,4,Yes,,OK
+S05,Amara Osei,SMB,30-08-2024,Q3 2024,31111.35,16097.02,147450.71,50587.75,7,9,Yes,New logo opportunity added,OK
+S06,Steven Bowman,SMB,30-08-2024,Q3 2024,37184.33,16885.3,159510.38,39470.63,8,4,Yes,Pipeline updated post-QBR,OK
+S07,Rachel Sutton,SMB,30-08-2024,Q3 2024,30497.7,15220.5,109818.84,22481.46,6,5,Yes,,OK
+E01,James Whitfield,Enterprise,06-09-2024,Q3 2024,160563.96,84684.77,685104.72,216892.12,3,5,Yes,Deal pulled forward from next quarter,OK
+E02,Sarah Thornton,Enterprise,06-09-2024,Q3 2024,114066.96,104218.3,437834.59,140312.82,2,8,Yes,Large renewal included,OK
+E04,Olivia Hargreaves,Enterprise,06-09-2024,Q3 2024,171038.86,93271.82,454867.94,155703.49,3,3,Yes,,OK
+E05,Richard Cavendish,Enterprise,06-09-2024,Q3 2024,122652.55,74779.21,350857.76,103792.39,3,7,Yes,New logo opportunity added,OK
+E06,Helena Forsythe,Enterprise,06-09-2024,Q3 2024,164213.57,79786.14,422639.56,128428.92,3,3,Yes,Large renewal included,OK
+M01,Daniel Ashworth,Mid-Market,06-09-2024,Q3 2024,64667.92,43877.88,218448.36,42349.85,4,4,Yes,Pipeline updated post-QBR,OK
+M03,Tom Baxter,Mid-Market,06-09-2024,Q3 2024,42940.55,19687.97,127585.17,26908.19,2,3,No,,OK
+M04,Claire Pemberton,Mid-Market,06-09-2024,Q3 2024,79139.73,36226.59,357554.24,82074.17,3,2,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,06-09-2024,Q3 2024,77043.76,44973.6,257777.62,56893.26,4,2,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,06-09-2024,Q3 2024,61190.63,31458.75,268768.13,61288.66,2,7,Yes,,OK
+M07,Andrew Collinson,Mid-Market,06-09-2024,Q3 2024,59856.88,30373.7,14327,3326.9,5,1,Yes,New logo opportunity added,FLAG
+S01,Lucy Drummond,SMB,06-09-2024,Q3 2024,22519.62,13215.26,97878.15,20584.69,7,8,Yes,New logo opportunity added,OK
+S02,Ben Hartley,SMB,06-09-2024,Q3 2024,32853,15468.99,3222.19,1025.68,7,3,No,,FLAG
+S03,Fiona McKenzie,SMB,06-09-2024,Q3 2024,271074,13912.01,117981.05,35081.41,8,12,No,Deal pulled forward from next quarter,OK
+S05,Amara Osei,SMB,06-09-2024,Q3 2024,12290.94,5694.39,40786.84,9120.13,12,10,Yes,Verbal commit received – awaiting paperwork,OK
+S06,Steven Bowman,SMB,06-09-2024,Q3 2024,30013.64,11661.67,3830.12,743.86,3,3,Yes,New logo opportunity added,FLAG
+S07,Rachel Sutton,SMB,06-09-2024,Q3 2024,9181.46,4412.08,44769.15,10723.1,5,15,No,,OK
+E02,Sarah Thornton,Enterprise,13-09-2024,Q3 2024,152762.45,95517.64,403565.22,100765.03,5,6,Yes,Two deals slipped to next week,OK
+E03,Marcus Bellingham,Enterprise,13-09-2024,Q3 2024,187617.36,92852.51,733414.44,212915.09,4,1,No,,OK
+E04,Olivia Hargreaves,Enterprise,13-09-2024,Q3 2024,169137,106508.58,649680.87,132891.74,6,8,Yes,,OK
+E05,Richard Cavendish,Enterprise,13-09-2024,Q3 2024,218248.51,125558.36,1059531.65,265956.59,6,4,Yes,New logo opportunity added,OK
+E06,Helena Forsythe,Enterprise,13-09-2024,Q3 2024,212720.7,129084.27,1010611.76,313164.35,4,6,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,13-09-2024,Q3 2024,29837.14,24420.46,88043.07,26234.62,4,7,Yes,Revised following manager review,OK
+M02,Priya Mehta,Mid-Market,13-09-2024,Q3 2024,59201.1,35679.23,248080.64,48270.91,1,1,No,Verbal commit received – awaiting paperwork,OK
+M03,Tom Baxter,Mid-Market,13-09-2024,Q3 2024,116924.44,46083.81,377005.63,103872.92,2,3,Yes,Customer procurement delay,OK
+M04,Claire Pemberton,Mid-Market,13-09-2024,Q3 2024,38798,23323.29,182376.74,47613.02,1,3,Yes,Verbal commit received – awaiting paperwork,OK
+M05,Nathan Griffiths,Mid-Market,13-09-2024,Q3 2024,34133.4,17408.75,163564.18,55440.88,6,7,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,13-09-2024,Q3 2024,41521.39,23006.43,154626.59,29199.98,2,1,No,,OK
+S01,Lucy Drummond,SMB,13-09-2024,Q3 2024,33016.72,18645.55,113963.08,27875.7,2,6,Yes,Revised following manager review,OK
+S02,Ben Hartley,SMB,13-09-2024,Q3 2024,36981.2,13799.5,177396.59,52022.94,7,9,Yes,Verbal commit received – awaiting paperwork,OK
+S03,Fiona McKenzie,SMB,13-09-2024,Q3 2024,8260.42,5050.4,39421.03,11001.16,9,15,No,Verbal commit received – awaiting paperwork,OK
+S04,Callum Reid,SMB,13-09-2024,Q3 2024,10472.82,6148.8,27491.12,6445.81,10,5,Yes,,OK
+S05,Amara Osei,SMB,13-09-2024,Q3 2024,8170.46,3999.8,38363.93,8140.39,3,4,Yes,Forecast includes upsell opportunity,OK
+S06,Steven Bowman,SMB,13-09-2024,Q3 2024,19564.09,6669.68,61219,11692.35,3,12,Yes,,OK
+S07,Rachel Sutton,SMB,13-09-2024,Q3 2024,32690.87,18669.8,128246.38,30040.54,7,3,Yes,Two deals slipped to next week,OK
+E01,James Whitfield,Enterprise,20-09-2024,Q3 2024,137362.54,70724.34,502617.71,129107.41,2,7,Yes,Large renewal included,OK
+E02,Sarah Thornton,Enterprise,20-09-2024,Q3 2024,169608.62,115667.85,21785.61,5045.52,5,5,Yes,Verbal commit received – awaiting paperwork,FLAG
+E03,Marcus Bellingham,Enterprise,20-09-2024,Q3 2024,178843.37,85539.99,806414.63,146932.37,3,8,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,20-09-2024,Q3 2024,200973.66,129444.35,511332.14,113433.24,3,2,Yes,,OK
+E05,Richard Cavendish,Enterprise,20-09-2024,Q3 2024,112049.74,55733.94,416989.72,76433.19,5,4,No,Verbal commit received – awaiting paperwork,OK
+E06,Helena Forsythe,Enterprise,20-09-2024,Q3 2024,188840.65,95410.24,643843.92,167745.15,2,3,Yes,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,20-09-2024,Q3 2024,50891.95,32592.72,220806,69731.73,3,1,Yes,,OK
+M02,Priya Mehta,Mid-Market,20-09-2024,Q3 2024,84588.4,48653.38,337051,66843.02,3,3,Yes,,OK
+M03,Tom Baxter,Mid-Market,20-09-2024,Q3 2024,71524.04,29193.74,294380.13,69333.52,1,7,Yes,Revised following manager review,OK
+M04,Claire Pemberton,Mid-Market,20-09-2024,Q3 2024,39802.9,18642.56,196260.1,49094.29,1,6,Yes,Large renewal included,OK
+M06,Yasmin Khalid,Mid-Market,20-09-2024,Q3 2024,45645.28,26426.41,1270102,26222.92,1,1,Yes,,OK
+M07,Andrew Collinson,Mid-Market,20-09-2024,Q3 2024,32407,15937.1,81598.98,22755.44,3,8,Yes,Large renewal included,OK
+S01,Lucy Drummond,SMB,20-09-2024,Q3 2024,28362,13873.71,98746.8,25356.25,9,6,Yes,,OK
+S02,Ben Hartley,SMB,20-09-2024,Q3 2024,21225.49,9133.95,3719.21,1027.85,6,6,Yes,,FLAG
+S03,Fiona McKenzie,SMB,20-09-2024,Q3 2024,18550.37,11763.97,72384.92,25172.06,5,9,Yes,,OK
+S04,Callum Reid,SMB,20-09-2024,Q3 2024,10625.28,6153.68,46269.03,10530.66,12,8,Yes,Pipeline updated post-QBR,OK
+S05,Amara Osei,SMB,20-09-2024,Q3 2024,33165.17,15671.12,102381.1,28519.49,10,13,Yes,,OK
+S06,Steven Bowman,SMB,20-09-2024,Q3 2024,26773.43,12950.92,71151.06,16203.94,6,12,Yes,Two deals slipped to next week,OK
+S07,Rachel Sutton,SMB,20-09-2024,Q3 2024,30555.6,19568.7,136886.31,41918.61,6,9,Yes,,OK
+E01,James Whitfield,Enterprise,27-09-2024,Q3 2024,128550.28,68177.39,637452.83,130740.07,6,8,Yes,,OK
+E02,Sarah Thornton,Enterprise,27-09-2024,Q3 2024,110557.17,80651.04,441894.95,142043.7,2,3,Yes,,OK
+E03,Marcus Bellingham,Enterprise,27-09-2024,Q3 2024,80565.67,46963.94,350402.51,109995.94,4,3,Yes,Customer procurement delay,OK
+E04,Olivia Hargreaves,Enterprise,27-09-2024,Q3 2024,170146.32,100180.21,730013.58,251692.39,1,4,Yes,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,27-09-2024,Q3 2024,32620.78,20599.68,115960.15,28817.27,6,2,Yes,,OK
+M02,Priya Mehta,Mid-Market,27-09-2024,Q3 2024,59999.69,30069.23,279174.79,75833.07,1,8,Yes,,OK
+M03,Tom Baxter,Mid-Market,27-09-2024,Q3 2024,499130,20470.44,178673.47,39492.98,4,2,Yes,,OK
+M04,Claire Pemberton,Mid-Market,27-09-2024,Q3 2024,40874,23012.47,128058.67,34299.9,2,1,No,,OK
+M05,Nathan Griffiths,Mid-Market,27-09-2024,Q3 2024,30341.55,18549.63,2625.62,624.4,6,3,Yes,Pipeline updated post-QBR,FLAG
+M06,Yasmin Khalid,Mid-Market,27-09-2024,Q3 2024,52000.54,23613.84,212530.36,55368.81,3,6,Yes,Revised following manager review,OK
+M07,Andrew Collinson,Mid-Market,27-09-2024,Q3 2024,39719,23153.74,164823.13,45285.59,4,8,Yes,,OK
+S02,Ben Hartley,SMB,27-09-2024,Q3 2024,40011.54,16604.18,130372,30548.76,5,2,Yes,Verbal commit received – awaiting paperwork,OK
+S03,Fiona McKenzie,SMB,27-09-2024,Q3 2024,11427.8,7110.8,42216,8120,4,3,Yes,,OK
+S05,Amara Osei,SMB,27-09-2024,Q3 2024,33131.06,18927.35,101440.77,26525.97,10,15,No,Verbal commit received – awaiting paperwork,OK
+S06,Steven Bowman,SMB,27-09-2024,Q3 2024,37215.54,12375.25,129627.98,41112.54,7,6,Yes,,OK
+S07,Rachel Sutton,SMB,27-09-2024,Q3 2024,24340.53,13747.47,81362.8,28134.32,10,9,Yes,,OK
+E01,James Whitfield,Enterprise,04-10-2024,Q4 2024,216127.7,0,721325.37,163992.43,5,0,Yes,,OK
+E02,Sarah Thornton,Enterprise,04-10-2024,Q4 2024,74286.26,0,223923.64,71916.7,2,0,No,Budget freeze reported by prospect,OK
+E03,Marcus Bellingham,Enterprise,04-10-2024,Q4 2024,115355,0,522879.55,94408.73,2,0,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,04-10-2024,Q4 2024,148538.34,0,533687.96,108740.87,1,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,04-10-2024,Q4 2024,204783.62,0,517004.96,147936.42,3,0,Yes,Pipeline updated post-QBR,OK
+E06,Helena Forsythe,Enterprise,04-10-2024,Q4 2024,124340.49,0,561307.27,120419.5,5,0,Yes,Large renewal included,OK
+M01,Daniel Ashworth,Mid-Market,04-10-2024,Q4 2024,34275.69,0,159458.66,40797.19,2,0,Yes,Budget freeze reported by prospect,OK
+M02,Priya Mehta,Mid-Market,04-10-2024,Q4 2024,70398.67,0,330019.59,60565.75,5,0,Yes,,OK
+M03,Tom Baxter,Mid-Market,04-10-2024,Q4 2024,64723.81,0,199170.6,51754.72,1,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,04-10-2024,Q4 2024,84551.28,0,265263.95,64279.05,3,0,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,04-10-2024,Q4 2024,33003.9,0,159409.69,36638.08,4,0,Yes,Large renewal included,OK
+M06,Yasmin Khalid,Mid-Market,04-10-2024,Q4 2024,58214.9,0,14103.63,3983.54,1,0,Yes,Large renewal included,FLAG
+M07,Andrew Collinson,Mid-Market,04-10-2024,Q4 2024,30524.79,0,134793.63,24737.6,5,0,No,Budget freeze reported by prospect,OK
+S01,Lucy Drummond,SMB,04-10-2024,Q4 2024,20283.49,0,86885.84,24590.59,2,0,Yes,,OK
+S02,Ben Hartley,SMB,04-10-2024,Q4 2024,27848,0,109826.73,27334.09,6,0,Yes,Customer procurement delay,OK
+S03,Fiona McKenzie,SMB,04-10-2024,Q4 2024,19135.15,0,65711,14047.71,2,0,Yes,Budget freeze reported by prospect,OK
+S04,Callum Reid,SMB,04-10-2024,Q4 2024,20591.42,0,96902.39,24292.07,2,0,Yes,Verbal commit received – awaiting paperwork,OK
+S05,Amara Osei,SMB,04-10-2024,Q4 2024,17578,0,64914.87,21270.46,9,0,Yes,Two deals slipped to next week,OK
+S07,Rachel Sutton,SMB,04-10-2024,Q4 2024,22069.46,0,77431.36,19996.61,11,0,Yes,,OK
+E01,James Whitfield,Enterprise,11-10-2024,Q4 2024,219810.23,0,1002726.46,302247.93,6,0,Yes,Pipeline updated post-QBR,OK
+E02,Sarah Thornton,Enterprise,11-10-2024,Q4 2024,81305.5,0,234087.97,52289.43,2,0,Yes,,OK
+E03,Marcus Bellingham,Enterprise,11-10-2024,Q4 2024,173718.4,0,583145.37,141855.82,4,0,No,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,11-10-2024,Q4 2024,188961.46,0,857380.41,194001.22,5,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,11-10-2024,Q4 2024,209647.23,0,789239.87,195711.46,5,0,Yes,,OK
+E06,Helena Forsythe,Enterprise,11-10-2024,Q4 2024,140503.48,0,694915.67,168839.92,3,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,11-10-2024,Q4 2024,41656.78,0,105026.1,27700.66,1,0,No,,OK
+M02,Priya Mehta,Mid-Market,11-10-2024,Q4 2024,35251.21,0,115427.22,40327.23,1,0,No,,OK
+M03,Tom Baxter,Mid-Market,11-10-2024,Q4 2024,89880.24,0,260067.13,69576.16,4,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,11-10-2024,Q4 2024,85829.83,0,396345.58,85528.62,4,0,Yes,Verbal commit received – awaiting paperwork,OK
+M05,Nathan Griffiths,Mid-Market,11-10-2024,Q4 2024,49963.69,0,154794.27,38648.99,6,0,Yes,Verbal commit received – awaiting paperwork,OK
+M07,Andrew Collinson,Mid-Market,11-10-2024,Q4 2024,78217.64,0,354427.37,122034.28,6,0,Yes,Pipeline updated post-QBR,OK
+S01,Lucy Drummond,SMB,11-10-2024,Q4 2024,12432.84,0,33979.45,8048.87,2,0,No,,OK
+S02,Ben Hartley,SMB,11-10-2024,Q4 2024,24365.63,0,91436.73,21627.35,12,0,Yes,Two deals slipped to next week,OK
+S03,Fiona McKenzie,SMB,11-10-2024,Q4 2024,27415.89,0,105468.42,19782.43,7,0,Yes,,OK
+S04,Callum Reid,SMB,11-10-2024,Q4 2024,14018.29,0,66289.44,21136.07,12,0,No,,OK
+S06,Steven Bowman,SMB,11-10-2024,Q4 2024,41265.74,0,104850.4,31934.03,12,0,Yes,Deal pulled forward from next quarter,OK
+S07,Rachel Sutton,SMB,11-10-2024,Q4 2024,18503.72,0,54458.13,9934.03,8,0,Yes,,OK
+E01,James Whitfield,Enterprise,18-10-2024,Q4 2024,139702.91,0,475489.22,108930.94,5,0,Yes,Large renewal included,OK
+E02,Sarah Thornton,Enterprise,18-10-2024,Q4 2024,103577.01,0,3794127,111384.71,3,0,Yes,Large renewal included,OK
+E03,Marcus Bellingham,Enterprise,18-10-2024,Q4 2024,102447.58,0,393093.71,132551.74,6,0,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,18-10-2024,Q4 2024,184682.81,0,9200192,268414.93,4,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,18-10-2024,Q4 2024,138174.72,0,680366.68,132323.36,1,0,Yes,Two deals slipped to next week,OK
+E06,Helena Forsythe,Enterprise,18-10-2024,Q4 2024,169331.24,0,650689.81,121431.47,1,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,18-10-2024,Q4 2024,45480.73,0,146124.51,28614.53,2,0,No,,OK
+M02,Priya Mehta,Mid-Market,18-10-2024,Q4 2024,78022.3,0,248991.56,68108.01,5,0,No,Verbal commit received – awaiting paperwork,OK
+M03,Tom Baxter,Mid-Market,18-10-2024,Q4 2024,60302.98,0,239448.7,62516.73,4,0,Yes,Large renewal included,OK
+M04,Claire Pemberton,Mid-Market,18-10-2024,Q4 2024,64140.91,0,6008.95,1805.01,2,0,Yes,,FLAG
+M05,Nathan Griffiths,Mid-Market,18-10-2024,Q4 2024,33562.3,0,139861.01,37723.7,3,0,Yes,,OK
+M07,Andrew Collinson,Mid-Market,18-10-2024,Q4 2024,65444.24,0,276714.61,88121.39,5,0,Yes,Budget freeze reported by prospect,OK
+S01,Lucy Drummond,SMB,18-10-2024,Q4 2024,23513.52,0,100945.68,18406.35,3,0,Yes,Budget freeze reported by prospect,OK
+S02,Ben Hartley,SMB,18-10-2024,Q4 2024,17752.32,0,82989.92,24282.15,9,0,Yes,,OK
+S03,Fiona McKenzie,SMB,18-10-2024,Q4 2024,13503.68,0,43455.17,9129.94,2,0,Yes,,OK
+S04,Callum Reid,SMB,18-10-2024,Q4 2024,20969.46,0,59421.51,17213.67,8,0,Yes,,OK
+S05,Amara Osei,SMB,18-10-2024,Q4 2024,528152,0,110299.87,24377.2,6,0,Yes,,FLAG
+S06,Steven Bowman,SMB,18-10-2024,Q4 2024,28821.36,0,102665.2,23225.95,5,0,Yes,,OK
+S07,Rachel Sutton,SMB,18-10-2024,Q4 2024,14511.51,0,44535.02,8140.71,3,0,Yes,,OK
+E01,James Whitfield,Enterprise,25-10-2024,Q4 2024,110902.5,0,5804.59,1624.56,1,0,No,,FLAG
+E02,Sarah Thornton,Enterprise,25-10-2024,Q4 2024,133717.59,0,515172.12,153674.66,1,0,No,,OK
+E03,Marcus Bellingham,Enterprise,25-10-2024,Q4 2024,185465.83,0,539842.06,187173.95,5,0,Yes,Forecast includes upsell opportunity,OK
+E04,Olivia Hargreaves,Enterprise,25-10-2024,Q4 2024,172632.58,0,4809635,164067.61,2,0,Yes,Large renewal included,OK
+E05,Richard Cavendish,Enterprise,25-10-2024,Q4 2024,205006.05,0,904290.71,186406.64,1,0,Yes,,OK
+E06,Helena Forsythe,Enterprise,25-10-2024,Q4 2024,197136.6,0,648446.46,218822.3,1,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,25-10-2024,Q4 2024,26086.49,0,113320.51,30375.82,5,0,Yes,,OK
+M02,Priya Mehta,Mid-Market,25-10-2024,Q4 2024,45579.49,0,129466.27,32717.75,2,0,Yes,,OK
+M03,Tom Baxter,Mid-Market,25-10-2024,Q4 2024,94537.93,0,17298.21,3184.86,6,0,Yes,,FLAG
+M04,Claire Pemberton,Mid-Market,25-10-2024,Q4 2024,67850.76,0,174010.28,41774.17,4,0,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,25-10-2024,Q4 2024,613303,0,176421,40422.85,5,0,Yes,,FLAG
+M06,Yasmin Khalid,Mid-Market,25-10-2024,Q4 2024,50489.35,0,191340,47621.13,5,0,Yes,Large renewal included,OK
+M07,Andrew Collinson,Mid-Market,25-10-2024,Q4 2024,525189,0,225084.02,42544.54,2,0,Yes,Two deals slipped to next week,OK
+S01,Lucy Drummond,SMB,25-10-2024,Q4 2024,31361.79,0,119847.17,40219.5,2,0,Yes,New logo opportunity added,OK
+S02,Ben Hartley,SMB,25-10-2024,Q4 2024,12802.94,0,54305.1,12499.71,4,0,Yes,,OK
+S03,Fiona McKenzie,SMB,25-10-2024,Q4 2024,10810.51,0,33832,6324.45,8,0,Yes,Deal pulled forward from next quarter,OK
+S04,Callum Reid,SMB,25-10-2024,Q4 2024,17964.29,0,53307.01,17438.3,2,0,Yes,Pipeline updated post-QBR,OK
+S05,Amara Osei,SMB,25-10-2024,Q4 2024,27731.06,0,107880.09,22691.21,6,0,Yes,Deal pulled forward from next quarter,OK
+S06,Steven Bowman,SMB,25-10-2024,Q4 2024,19126.25,0,72976.81,24096.33,3,0,Yes,,OK
+E01,James Whitfield,Enterprise,01-11-2024,Q4 2024,113753.49,0,477418.53,96868.31,6,0,Yes,,OK
+E02,Sarah Thornton,Enterprise,01-11-2024,Q4 2024,66662.1,0,286694.72,52013.57,2,0,Yes,Deal pulled forward from next quarter,OK
+E03,Marcus Bellingham,Enterprise,01-11-2024,Q4 2024,126739.27,0,474433.16,151779.21,5,0,Yes,Verbal commit received – awaiting paperwork,OK
+E04,Olivia Hargreaves,Enterprise,01-11-2024,Q4 2024,201917.82,0,795065.67,182611.79,2,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,01-11-2024,Q4 2024,100703.52,0,320997,61967.46,3,0,No,Pipeline updated post-QBR,OK
+E06,Helena Forsythe,Enterprise,01-11-2024,Q4 2024,127248.85,0,443938.34,139585.06,1,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,01-11-2024,Q4 2024,38204.32,0,168360.33,49907.79,1,0,Yes,,OK
+M02,Priya Mehta,Mid-Market,01-11-2024,Q4 2024,59123.17,0,210548.47,70199.18,5,0,Yes,New logo opportunity added,OK
+M03,Tom Baxter,Mid-Market,01-11-2024,Q4 2024,61557.6,0,235243.59,50820.46,6,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,01-11-2024,Q4 2024,33890.4,0,133366.12,40208.68,4,0,No,Forecast includes upsell opportunity,OK
+M05,Nathan Griffiths,Mid-Market,01-11-2024,Q4 2024,68504.96,0,299027.4,92514.4,4,0,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,01-11-2024,Q4 2024,31276.4,0,102398.42,35401.71,2,0,No,Two deals slipped to next week,OK
+M07,Andrew Collinson,Mid-Market,01-11-2024,Q4 2024,71980.66,0,265064.72,53016.08,4,0,No,Deal pulled forward from next quarter,OK
+S01,Lucy Drummond,SMB,01-11-2024,Q4 2024,25888.67,0,106803.03,28669.72,12,0,No,,OK
+S02,Ben Hartley,SMB,01-11-2024,Q4 2024,23842.63,0,94804.98,27968.82,8,0,Yes,,OK
+S03,Fiona McKenzie,SMB,01-11-2024,Q4 2024,10652.83,0,50129.18,15902.46,7,0,No,,OK
+S04,Callum Reid,SMB,01-11-2024,Q4 2024,32272.84,0,147852.34,45523.23,2,0,Yes,New logo opportunity added,OK
+S05,Amara Osei,SMB,01-11-2024,Q4 2024,26044.51,0,86913.19,28269.08,2,0,No,Two deals slipped to next week,OK
+S06,Steven Bowman,SMB,01-11-2024,Q4 2024,39062.7,0,190374.38,54558.67,2,0,Yes,,OK
+S07,Rachel Sutton,SMB,01-11-2024,Q4 2024,27602.57,0,97412.66,19806.22,2,0,Yes,Verbal commit received – awaiting paperwork,OK
+E01,James Whitfield,Enterprise,08-11-2024,Q4 2024,116896.42,0,445369.94,85251.32,2,0,Yes,Customer procurement delay,OK
+E02,Sarah Thornton,Enterprise,08-11-2024,Q4 2024,163543.45,0,779954.23,150812.79,2,0,Yes,,OK
+E03,Marcus Bellingham,Enterprise,08-11-2024,Q4 2024,106654.21,0,504314,117105.22,5,0,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,08-11-2024,Q4 2024,87406.02,0,367552,91050.63,5,0,Yes,Verbal commit received – awaiting paperwork,OK
+E05,Richard Cavendish,Enterprise,08-11-2024,Q4 2024,205197.27,0,937404.13,199550.39,5,0,No,Deal pulled forward from next quarter,OK
+E06,Helena Forsythe,Enterprise,08-11-2024,Q4 2024,155510.39,0,718487.56,212572.01,3,0,Yes,Customer procurement delay,OK
+M01,Daniel Ashworth,Mid-Market,08-11-2024,Q4 2024,50849.73,0,178620.43,36601.56,1,0,Yes,Verbal commit received – awaiting paperwork,OK
+M02,Priya Mehta,Mid-Market,08-11-2024,Q4 2024,70724.83,0,179434.57,62462.69,1,0,Yes,,OK
+M03,Tom Baxter,Mid-Market,08-11-2024,Q4 2024,74850.98,0,331696.65,83950.23,5,0,Yes,Deal pulled forward from next quarter,OK
+M04,Claire Pemberton,Mid-Market,08-11-2024,Q4 2024,62536.94,0,249869.92,66528.22,3,0,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,08-11-2024,Q4 2024,87745.8,0,2272717,44439.95,2,0,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,08-11-2024,Q4 2024,87811.42,0,357352.73,94388.54,5,0,Yes,New logo opportunity added,OK
+M07,Andrew Collinson,Mid-Market,08-11-2024,Q4 2024,74985.87,0,287222.25,51731.97,6,0,Yes,,OK
+S01,Lucy Drummond,SMB,08-11-2024,Q4 2024,16960.68,0,44026.35,9181.53,10,0,Yes,,OK
+S02,Ben Hartley,SMB,08-11-2024,Q4 2024,33140.23,0,130576.93,32191.85,5,0,Yes,,OK
+S03,Fiona McKenzie,SMB,08-11-2024,Q4 2024,33168.35,0,161283.12,55588.93,4,0,Yes,Customer procurement delay,OK
+S04,Callum Reid,SMB,08-11-2024,Q4 2024,18562.92,0,90569.81,20349.62,8,0,No,New logo opportunity added,OK
+S05,Amara Osei,SMB,08-11-2024,Q4 2024,24825.87,0,117542.24,22646.47,3,0,No,Verbal commit received – awaiting paperwork,OK
+S06,Steven Bowman,SMB,08-11-2024,Q4 2024,18222.3,0,60441.9,11981.26,4,0,Yes,,OK
+S07,Rachel Sutton,SMB,08-11-2024,Q4 2024,30858.34,0,126774.69,43301.89,3,0,Yes,Two deals slipped to next week,OK
+E01,James Whitfield,Enterprise,15-11-2024,Q4 2024,196887.7,0,495530.18,108992.7,5,0,Yes,,OK
+E02,Sarah Thornton,Enterprise,15-11-2024,Q4 2024,144294.53,0,421192.09,100008.43,3,0,No,Forecast includes upsell opportunity,OK
+E03,Marcus Bellingham,Enterprise,15-11-2024,Q4 2024,98045.56,0,468286.85,148967.22,4,0,No,Verbal commit received – awaiting paperwork,OK
+E04,Olivia Hargreaves,Enterprise,15-11-2024,Q4 2024,98357.91,0,463040.51,146266.65,3,0,Yes,Customer procurement delay,OK
+E05,Richard Cavendish,Enterprise,15-11-2024,Q4 2024,119810.82,0,484307.84,138218.35,6,0,Yes,Revised following manager review,OK
+E06,Helena Forsythe,Enterprise,15-11-2024,Q4 2024,98163.12,0,487082.93,163791.86,3,0,Yes,Verbal commit received – awaiting paperwork,OK
+M01,Daniel Ashworth,Mid-Market,15-11-2024,Q4 2024,48832.36,0,9652.17,3190.35,5,0,Yes,,FLAG
+M02,Priya Mehta,Mid-Market,15-11-2024,Q4 2024,69909.44,0,206349.1,53428.83,3,0,Yes,Verbal commit received – awaiting paperwork,OK
+M03,Tom Baxter,Mid-Market,15-11-2024,Q4 2024,102961.65,0,399954.48,98678.47,5,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,15-11-2024,Q4 2024,87997.21,0,423725.75,88699.55,5,0,No,Forecast includes upsell opportunity,OK
+M05,Nathan Griffiths,Mid-Market,15-11-2024,Q4 2024,63039.54,0,183849.1,55048.09,2,0,Yes,,OK
+M06,Yasmin Khalid,Mid-Market,15-11-2024,Q4 2024,78494.51,0,381070.9,85503.33,3,0,No,,OK
+M07,Andrew Collinson,Mid-Market,15-11-2024,Q4 2024,34192.95,0,106552.87,27666.12,5,0,No,Deal pulled forward from next quarter,OK
+S01,Lucy Drummond,SMB,15-11-2024,Q4 2024,8758.12,0,43179.38,10446.48,2,0,Yes,,OK
+S02,Ben Hartley,SMB,15-11-2024,Q4 2024,30861.08,0,131541.74,35179.11,4,0,Yes,Verbal commit received – awaiting paperwork,OK
+S03,Fiona McKenzie,SMB,15-11-2024,Q4 2024,31090.01,0,86234.43,27765.87,4,0,No,,OK
+S04,Callum Reid,SMB,15-11-2024,Q4 2024,10496.83,0,33515.95,8946.57,2,0,Yes,,OK
+S06,Steven Bowman,SMB,15-11-2024,Q4 2024,15870.59,0,67465.97,17494.87,12,0,Yes,Two deals slipped to next week,OK
+S07,Rachel Sutton,SMB,15-11-2024,Q4 2024,27520.98,0,132481.24,44846.01,5,0,No,Large renewal included,OK
+E01,James Whitfield,Enterprise,22-11-2024,Q4 2024,202762.15,0,9005952,279130.83,3,0,Yes,Revised following manager review,OK
+E02,Sarah Thornton,Enterprise,22-11-2024,Q4 2024,95150.06,0,439325.22,105216.55,4,0,Yes,,OK
+E03,Marcus Bellingham,Enterprise,22-11-2024,Q4 2024,188690.82,0,685765,145676.26,3,0,Yes,Revised following manager review,OK
+E05,Richard Cavendish,Enterprise,22-11-2024,Q4 2024,210225.93,0,715726.05,156913.74,4,0,Yes,Deal pulled forward from next quarter,OK
+E06,Helena Forsythe,Enterprise,22-11-2024,Q4 2024,2060401,0,974528.79,228335.97,2,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,22-11-2024,Q4 2024,66323.74,0,278073.62,67637.2,4,0,Yes,Two deals slipped to next week,OK
+M02,Priya Mehta,Mid-Market,22-11-2024,Q4 2024,77835.54,0,18080,5690.54,5,0,Yes,Customer procurement delay,FLAG
+M03,Tom Baxter,Mid-Market,22-11-2024,Q4 2024,92315.23,0,396907.62,118965.77,4,0,Yes,Forecast includes upsell opportunity,OK
+M04,Claire Pemberton,Mid-Market,22-11-2024,Q4 2024,61841.65,0,201021.93,42163.69,6,0,Yes,,OK
+M05,Nathan Griffiths,Mid-Market,22-11-2024,Q4 2024,31781.04,0,79886.95,23493.04,2,0,Yes,Revised following manager review,OK
+M06,Yasmin Khalid,Mid-Market,22-11-2024,Q4 2024,58500.2,0,289550.09,73066.75,3,0,No,Two deals slipped to next week,OK
+S01,Lucy Drummond,SMB,22-11-2024,Q4 2024,23810.24,0,115567.58,34847.49,12,0,Yes,,OK
+S02,Ben Hartley,SMB,22-11-2024,Q4 2024,41229.64,0,198856.86,56284.16,9,0,Yes,Customer procurement delay,OK
+S03,Fiona McKenzie,SMB,22-11-2024,Q4 2024,18314.11,0,55687.87,10488.68,9,0,No,Forecast includes upsell opportunity,OK
+S04,Callum Reid,SMB,22-11-2024,Q4 2024,32623.18,0,6273.35,2100.83,4,0,No,Customer procurement delay,FLAG
+S05,Amara Osei,SMB,22-11-2024,Q4 2024,9482.91,0,1997.57,572.75,3,0,Yes,,FLAG
+S06,Steven Bowman,SMB,22-11-2024,Q4 2024,16713.02,0,72323.77,20714.49,6,0,No,,OK
+S07,Rachel Sutton,SMB,22-11-2024,Q4 2024,27911.03,0,138358.89,33696.74,2,0,Yes,New logo opportunity added,OK
+E01,James Whitfield,Enterprise,29-11-2024,Q4 2024,91917.92,0,250821.89,48731.06,2,0,Yes,,OK
+E02,Sarah Thornton,Enterprise,29-11-2024,Q4 2024,165402.76,0,523968.86,114742.54,1,0,Yes,Forecast includes upsell opportunity,OK
+E03,Marcus Bellingham,Enterprise,29-11-2024,Q4 2024,193187.19,0,591215.92,142002.52,4,0,Yes,,OK
+E04,Olivia Hargreaves,Enterprise,29-11-2024,Q4 2024,114811.69,0,16143.9,3763.25,1,0,Yes,,FLAG
+E05,Richard Cavendish,Enterprise,29-11-2024,Q4 2024,156539.67,0,770042.59,240540.59,3,0,Yes,,OK
+E06,Helena Forsythe,Enterprise,29-11-2024,Q4 2024,160605.03,0,651750.91,150543.35,2,0,No,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,29-11-2024,Q4 2024,256556,0,89079.92,16697.54,3,0,Yes,,OK
+M02,Priya Mehta,Mid-Market,29-11-2024,Q4 2024,37474.16,0,3322.07,761.27,1,0,Yes,Revised following manager review,FLAG
+M03,Tom Baxter,Mid-Market,29-11-2024,Q4 2024,88964.5,0,342745.03,61860.26,4,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,29-11-2024,Q4 2024,85147,0,414492.4,118047.27,5,0,Yes,Verbal commit received – awaiting paperwork,OK
+M05,Nathan Griffiths,Mid-Market,29-11-2024,Q4 2024,65301.13,0,4886.05,991.43,5,0,Yes,,FLAG
+M06,Yasmin Khalid,Mid-Market,29-11-2024,Q4 2024,70965.96,0,325117.08,101150.33,4,0,Yes,,OK
+S02,Ben Hartley,SMB,29-11-2024,Q4 2024,31191.86,0,7302.07,2554.04,12,0,Yes,Forecast includes upsell opportunity,FLAG
+S03,Fiona McKenzie,SMB,29-11-2024,Q4 2024,31359.82,0,113138.07,20926.17,9,0,No,,OK
+S04,Callum Reid,SMB,29-11-2024,Q4 2024,18919.79,0,534286,16632.82,7,0,Yes,Large renewal included,OK
+S05,Amara Osei,SMB,29-11-2024,Q4 2024,12108.21,0,53337,18344.82,9,0,Yes,Budget freeze reported by prospect,OK
+S06,Steven Bowman,SMB,29-11-2024,Q4 2024,14947.26,0,73112.49,19586.97,8,0,No,Revised following manager review,OK
+S07,Rachel Sutton,SMB,29-11-2024,Q4 2024,10136.57,0,47704.68,16134.83,2,0,No,Customer procurement delay,OK
+E01,James Whitfield,Enterprise,06-12-2024,Q4 2024,87485,0,268758.56,70248.84,2,0,Yes,Budget freeze reported by prospect,OK
+E02,Sarah Thornton,Enterprise,06-12-2024,Q4 2024,76562.62,0,235920.19,52621.3,3,0,Yes,Verbal commit received – awaiting paperwork,OK
+E03,Marcus Bellingham,Enterprise,06-12-2024,Q4 2024,212225.01,0,908813.92,282511.77,5,0,Yes,Large renewal included,OK
+E04,Olivia Hargreaves,Enterprise,06-12-2024,Q4 2024,84298.71,0,327729.97,68446.97,1,0,No,Two deals slipped to next week,OK
+E05,Richard Cavendish,Enterprise,06-12-2024,Q4 2024,180066.15,0,6242015,216228.62,3,0,Yes,Verbal commit received – awaiting paperwork,OK
+E06,Helena Forsythe,Enterprise,06-12-2024,Q4 2024,135487.46,0,435797.37,140865.06,3,0,No,,OK
+M01,Daniel Ashworth,Mid-Market,06-12-2024,Q4 2024,44170.58,0,122258.99,35535.17,6,0,Yes,,OK
+M02,Priya Mehta,Mid-Market,06-12-2024,Q4 2024,64073.91,0,254105.26,52434.77,6,0,Yes,Budget freeze reported by prospect,OK
+M03,Tom Baxter,Mid-Market,06-12-2024,Q4 2024,44187.49,0,193066.1,43043.63,3,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,06-12-2024,Q4 2024,53513.83,0,260037,90279.46,5,0,Yes,Pipeline updated post-QBR,OK
+M06,Yasmin Khalid,Mid-Market,06-12-2024,Q4 2024,53156,0,148122.18,39451.89,6,0,No,Verbal commit received – awaiting paperwork,OK
+M07,Andrew Collinson,Mid-Market,06-12-2024,Q4 2024,85036.15,0,330159.77,95904.43,6,0,No,,OK
+S01,Lucy Drummond,SMB,06-12-2024,Q4 2024,31391.57,0,143777.92,26732.31,5,0,Yes,,OK
+S02,Ben Hartley,SMB,06-12-2024,Q4 2024,13705.99,0,67585.74,17014.97,3,0,Yes,,OK
+S03,Fiona McKenzie,SMB,06-12-2024,Q4 2024,10715.43,0,51498.23,16032.04,9,0,Yes,,OK
+S04,Callum Reid,SMB,06-12-2024,Q4 2024,18941.92,0,1833.88,465.23,10,0,Yes,,FLAG
+S05,Amara Osei,SMB,06-12-2024,Q4 2024,19576.37,0,90241.81,30001.31,2,0,Yes,,OK
+S06,Steven Bowman,SMB,06-12-2024,Q4 2024,39614.12,0,9456.75,3144.79,7,0,No,Verbal commit received – awaiting paperwork,FLAG
+S07,Rachel Sutton,SMB,06-12-2024,Q4 2024,11725.18,0,46962.97,9224.34,12,0,Yes,Revised following manager review,OK
+E01,James Whitfield,Enterprise,13-12-2024,Q4 2024,146853.91,0,28111.74,9818.58,3,0,Yes,,FLAG
+E02,Sarah Thornton,Enterprise,13-12-2024,Q4 2024,111932.75,0,523185.86,94178.87,5,0,Yes,New logo opportunity added,OK
+E03,Marcus Bellingham,Enterprise,13-12-2024,Q4 2024,118982.46,0,592496.79,199269.83,5,0,Yes,Budget freeze reported by prospect,OK
+E04,Olivia Hargreaves,Enterprise,13-12-2024,Q4 2024,113651.87,0,403374.71,136652.57,3,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,13-12-2024,Q4 2024,95289.02,0,258751.06,50132.51,1,0,Yes,Pipeline updated post-QBR,OK
+M01,Daniel Ashworth,Mid-Market,13-12-2024,Q4 2024,61976.09,0,243876.3,73390.67,6,0,Yes,Budget freeze reported by prospect,OK
+M02,Priya Mehta,Mid-Market,13-12-2024,Q4 2024,58333.04,0,267797.14,76629.85,6,0,Yes,,OK
+M04,Claire Pemberton,Mid-Market,13-12-2024,Q4 2024,63688.82,0,194534.16,50502.29,3,0,Yes,Two deals slipped to next week,OK
+M05,Nathan Griffiths,Mid-Market,13-12-2024,Q4 2024,46380.51,0,120463.84,25651.4,5,0,Yes,Forecast includes upsell opportunity,OK
+M06,Yasmin Khalid,Mid-Market,13-12-2024,Q4 2024,38273.98,0,127643.02,32617.48,3,0,No,Pipeline updated post-QBR,OK
+M07,Andrew Collinson,Mid-Market,13-12-2024,Q4 2024,62450.53,0,275665.97,72741.46,6,0,Yes,Customer procurement delay,OK
+S01,Lucy Drummond,SMB,13-12-2024,Q4 2024,26540.31,0,119792.42,30628.7,8,0,Yes,Verbal commit received – awaiting paperwork,OK
+S02,Ben Hartley,SMB,13-12-2024,Q4 2024,47768,0,227031.36,75605.22,7,0,Yes,,OK
+S03,Fiona McKenzie,SMB,13-12-2024,Q4 2024,25676.26,0,80856.45,23043.93,2,0,Yes,,OK
+S04,Callum Reid,SMB,13-12-2024,Q4 2024,25385.66,0,105758.37,19902.09,8,0,Yes,Two deals slipped to next week,OK
+S05,Amara Osei,SMB,13-12-2024,Q4 2024,19567.02,0,83097.71,15867.47,10,0,Yes,Deal pulled forward from next quarter,OK
+S06,Steven Bowman,SMB,13-12-2024,Q4 2024,34600.69,0,89378.56,23486.16,11,0,Yes,Deal pulled forward from next quarter,OK
+S07,Rachel Sutton,SMB,13-12-2024,Q4 2024,21525,0,60557.67,13142.63,5,0,Yes,Large renewal included,OK
+E01,James Whitfield,Enterprise,20-12-2024,Q4 2024,81126.99,0,12059.21,4190.73,3,0,Yes,Revised following manager review,FLAG
+E02,Sarah Thornton,Enterprise,20-12-2024,Q4 2024,87730.98,0,392037.94,113430.56,4,0,Yes,Pipeline updated post-QBR,OK
+E03,Marcus Bellingham,Enterprise,20-12-2024,Q4 2024,206399.41,0,718570.29,145965.9,1,0,Yes,Large renewal included,OK
+E04,Olivia Hargreaves,Enterprise,20-12-2024,Q4 2024,163078.67,0,580355.3,109044.38,2,0,Yes,,OK
+E05,Richard Cavendish,Enterprise,20-12-2024,Q4 2024,207026.33,0,932215.28,203558.96,5,0,Yes,Customer procurement delay,OK
+E06,Helena Forsythe,Enterprise,20-12-2024,Q4 2024,207380.52,0,874313.9,221843.97,1,0,Yes,,OK
+M01,Daniel Ashworth,Mid-Market,20-12-2024,Q4 2024,53463.17,0,233956.48,78590.32,4,0,Yes,,OK
+M02,Priya Mehta,Mid-Market,20-12-2024,Q4 2024,87686.7,0,230927.39,61741.98,2,0,Yes,Deal pulled forward from next quarter,OK
+M03,Tom Baxter,Mid-Market,20-12-2024,Q4 2024,113519.26,0,564021.27,171628.39,6,0,Yes,Pipeline updated post-QBR,OK
+M04,Claire Pemberton,Mid-Market,20-12-2024,Q4 2024,68042.63,0,217225.8,44612.86,2,0,Yes,Revised following manager review,OK
+M05,Nathan Griffiths,Mid-Market,20-12-2024,Q4 2024,55075.72,0,193750.6,34970.16,1,0,Yes,Verbal commit received – awaiting paperwork,OK
+M06,Yasmin Khalid,Mid-Market,20-12-2024,Q4 2024,69105.68,0,188254.03,59902.86,6,0,Yes,Budget freeze reported by prospect,OK
+M07,Andrew Collinson,Mid-Market,20-12-2024,Q4 2024,87921.65,0,280449.35,69164.4,2,0,Yes,,OK
+S01,Lucy Drummond,SMB,20-12-2024,Q4 2024,32500.1,0,142443.31,34918.27,8,0,No,Two deals slipped to next week,OK
+S02,Ben Hartley,SMB,20-12-2024,Q4 2024,26890.88,0,79903.87,20044.8,2,0,Yes,Verbal commit received – awaiting paperwork,OK
+S03,Fiona McKenzie,SMB,20-12-2024,Q4 2024,11965.17,0,42205.2,13543.11,7,0,No,,OK
+S04,Callum Reid,SMB,20-12-2024,Q4 2024,33626.88,0,141841.81,40548.56,8,0,Yes,,OK
+S05,Amara Osei,SMB,20-12-2024,Q4 2024,31958.76,0,156790.14,40508.08,4,0,No,Deal pulled forward from next quarter,OK
+S06,Steven Bowman,SMB,20-12-2024,Q4 2024,37004.57,0,95100.76,21435.99,9,0,Yes,,OK
+S07,Rachel Sutton,SMB,20-12-2024,Q4 2024,17733.3,0,60768.42,19794.21,8,0,Yes,,OK
+E02,Sarah Thornton,Enterprise,27-12-2024,Q4 2024,58083.8,0,281691.33,89721.56,2,0,Yes,Deal pulled forward from next quarter,OK
+E04,Olivia Hargreaves,Enterprise,27-12-2024,Q4 2024,118665.74,0,527148.72,105520.83,2,0,Yes,Customer procurement delay,OK
+E05,Richard Cavendish,Enterprise,27-12-2024,Q4 2024,124342.88,0,20306.96,4414.77,4,0,Yes,,FLAG
+E06,Helena Forsythe,Enterprise,27-12-2024,Q4 2024,142528.78,0,554786.64,119584.04,6,0,Yes,New logo opportunity added,OK
+M01,Daniel Ashworth,Mid-Market,27-12-2024,Q4 2024,28604.37,0,109342.83,35952.26,2,0,Yes,Customer procurement delay,OK
+M02,Priya Mehta,Mid-Market,27-12-2024,Q4 2024,33716.72,0,162261.77,39057.82,2,0,Yes,,OK
+M03,Tom Baxter,Mid-Market,27-12-2024,Q4 2024,54156.27,0,225096.2,45106.03,1,0,Yes,Two deals slipped to next week,OK
+M04,Claire Pemberton,Mid-Market,27-12-2024,Q4 2024,41886.94,0,141479.87,44119.95,2,0,No,,OK
+M05,Nathan Griffiths,Mid-Market,27-12-2024,Q4 2024,837595,0,253545.68,52921.55,6,0,Yes,Deal pulled forward from next quarter,OK
+M06,Yasmin Khalid,Mid-Market,27-12-2024,Q4 2024,43530.11,0,155274.24,53606.69,4,0,Yes,Large renewal included,OK
+M07,Andrew Collinson,Mid-Market,27-12-2024,Q4 2024,41994.2,0,106472.03,26340.37,3,0,Yes,,OK
+S01,Lucy Drummond,SMB,27-12-2024,Q4 2024,29042.47,0,96153,19449.31,5,0,No,,OK
+S02,Ben Hartley,SMB,27-12-2024,Q4 2024,48858.26,0,191289.09,56057.4,12,0,Yes,,OK
+S03,Fiona McKenzie,SMB,27-12-2024,Q4 2024,32305.89,0,153217.86,40050.24,5,0,Yes,,OK
+S04,Callum Reid,SMB,27-12-2024,Q4 2024,23090.04,0,64769,13293.48,12,0,Yes,,OK
+S05,Amara Osei,SMB,27-12-2024,Q4 2024,18425.14,0,58815.3,14201.57,6,0,Yes,,OK
+S06,Steven Bowman,SMB,27-12-2024,Q4 2024,20961,0,72107,20223.32,9,0,Yes,Large renewal included,OK
+S07,Rachel Sutton,SMB,27-12-2024,Q4 2024,9920.26,0,37105,10852.38,4,0,Yes,,OK
