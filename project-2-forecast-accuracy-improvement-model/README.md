@@ -40,6 +40,8 @@ Built a six section analysis sheet covering rep accuracy, segment accuracy, quar
 ## Dashboard
 Four KPI cards, five charts, and three slicers built in Power BI with six DAX measures powering all visuals dynamically. Charts cover rep accuracy, quarterly trend, segment comparison, and model versus rep benchmarking.
 
+![View Dashboard](https://app.powerbi.com/groups/me/reports/b7104be9-bae2-4f6e-aaba-339feb16cfed/e1e592ee4b00dad31d26?experience=power-bi)
+
 ## Automation
 A Power Automate scheduled flow runs every Monday at 08:00, retrieves five live metrics from Excel on OneDrive using Get a row actions, and sends a formatted HTML forecast summary email to leadership with dynamic figures that update automatically each week.
 
@@ -64,7 +66,7 @@ Power Automate - How It Works
 Every Monday at 08:00 this flow sends a formatted forecast summary email to sales leadership. It connects to an Excel file on OneDrive, retrieves five live metrics from a summary table using Get a row actions, and inserts them dynamically into a professionally designed HTML email, no manual effort required each week.
 The email includes four KPI boxes with live revenue figures, a segment performance table, rep behaviour flags identifying over and under forecasters, and a direct link to the Power BI dashboard. In a production environment this would connect to a live CRM with the full leadership team on the distribution list.
 
-Full flow documentation: 
+![Full flow documentation](https://github.com/atreyeed01/sales-ops-portfolio/blob/ee7f11c137ce1135716a7b6213f5a2ca64c89d4c/project-2-forecast-accuracy-improvement-model/Forecast%20Automation%20.zip)
 
 Tools Used
 Microsoft Excel - Data cleaning, validation, standardisation, analysis, and weighted pipeline model
