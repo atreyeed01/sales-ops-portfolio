@@ -1,126 +1,101 @@
 # Sales Performance & Pipeline Analysis
 
-## About This Project
-I built this project to demonstrate a full Sales Operations workflow, from a raw, messy CRM export through to a cleaned dataset, a multi-page Power BI dashboard, and a live Make.com automation. The dataset is a synthetic UK B2B sales pipeline with 650 opportunities, and the goal was to answer the questions a sales leader would actually bring to a Monday morning pipeline review: Where are deals getting stuck? Which reps need support? Where is revenue being lost between close and invoice?
-
-## Dataset
-The dataset contains 650 synthetic sales opportunities covering the period January 2024 to March 2025, across 24 fields including pipeline stage, sales rep, deal value, industry, region, product line, lead source, cycle length, win/loss flag, and invoiced value. It was built to reflect a realistic UK mid-market B2B sales pipeline, including the kind of data quality issues that come with a CRM that has been running without governance.
-
-## What I Did
-
-**Data Understanding**
-Reviewed all 24 columns to understand field types, expected values, and relationships between fields before touching anything.
-
-**Data Validation**
-Identified 8 categories of data quality issues across the 650-row dataset including missing deal values, incorrect industry classifications entered by reps, stale deals with no activity for 30+ days, zombie deals sitting in late stages for 90+ days, and revenue leakage where invoiced amounts fell below the contracted deal value.
-
-**Data Standardisation**
-Used VLOOKUP against a Company Master Reference file to identify and correct 84 rows with incorrect industry classifications. Built flag columns for each data quality issue to track what needed fixing.
-
-**Data Cleaning**
-Created a separate Clean_Data sheet by removing unreliable rows, deals with missing values, stale deals, and zombie deals. 243 rows were removed, leaving 458 clean records for analysis.
-
-**KPI Analysis**
-Calculated 9 headline KPIs including total pipeline value, weighted forecast, win rate, average deal value, average cycle length, and total revenue leakage across the clean dataset.
-
-**Segmented Analysis**
-Built analysis across 4 dimensions, pipeline by stage, pipeline by region, pipeline by product, and rep-level performance, covering deal count, total value, weighted forecast, win rate, average cycle length, and percentage of total pipeline.
-
-**Power BI Dashboard**
-Built a single-page interactive dashboard with 4 KPI cards, 5 charts, and 3 slicers. Slicers filter the entire dashboard by region, product line, and deal tier. DAX measures were written for win rate, average cycle length, revenue leakage, and total won value.
-
-**Make.com Automation**
-Built a live automation that connects to the pipeline Google Sheet, identifies any deal with no activity in more than 14 days, and sends a formatted email alert to the assigned rep with full deal context, company, stage, deal value, region, and days inactive.
-
-**Executive Summary**
-Wrote a one-page business summary covering the key findings, prioritised recommendations, and commercial impact estimates, formatted for a sales leadership audience.
-
-## Key Findings
-- 37% of the original CRM data had quality issues before any analysis could run
-- EMEA deals take an average of 217 days to close versus 117 days for UK deals, an 85% difference that makes regional forecasting unreliable if treated equally
-- Analytics Suite has a Discovery stage bottleneck, 184 days average cycle versus 154 days for the fastest product
-- Win rates range from 11% to 40% across the 15-rep team, a gap not explained by territory or deal mix alone
-- £121,069 in contracted revenue was invoiced below the agreed deal value across 19 closed won deals
-- Aisha Okafor leads on both win rate (40%) and total won value (£0.95M). Emma Clarke, Nadia Kowalski and Tom Nguyen are all below 15% win rate and flagged for coaching review
-
-## Tools Used
-Microsoft Excel - Data cleaning, validation, standardisation, and analysis
-Power BI - Interactive dashboard with DAX measures and slicers
-Make.com - Automated stale deal alert workflow
-SQL - Analytical queries written to demonstrate how this analysis would run against a live CRM database
-Google Sheets - Live data source for the Make.com automation
-
-## Excel Functions Used
-
-**Data Validation & Flags**
-- COUNTBLANK - used to identify missing values across key columns
-- IF - used to flag rows as Missing or OK for deal value, lead source, and expected close date
-- AND / OR - used in combination with IF for multi-condition flags such as zombie deal detection
-- SUMPRODUCT - used to calculate revenue leakage across won deals by comparing deal value against invoiced value
-
-**Data Standardisation**
-- VLOOKUP - used to pull correct industry classifications from the Company Master Reference file
-- IFERROR - used to handle unmatched companies in the VLOOKUP without breaking the formula
-- COUNTIF - used to count remaining mismatches after standardisation
-
-**KPI Analysis**
-- SUM - total pipeline value and weighted forecast
-- COUNTIF - won deals, lost deals, missing values
-- AVERAGEIF - average cycle length excluding blank cells for open deals
-- IFERROR - used to prevent divide by zero errors in win rate and average deal value calculations
-
-**Segmented Analysis**
-- SUMIF - pipeline value and weighted forecast by stage, region, product, and rep
-- COUNTIF - deal count by stage, region, product, and rep
-- AVERAGEIFS - average cycle length filtered by region, product, and rep simultaneously
-- COUNTIFS - win rate numerator filtered by both rep name and won flag at the same time
-- IFERROR - applied to all division-based calculations
-
-## DAX Measures Used (Power BI)
-- Total Pipeline Value = SUM of Deal_Value_£
-- Win Rate % = DIVIDE with COUNTROWS and FILTER on Won_Flag
-- Avg Cycle Length = CALCULATE with AVERAGE excluding blank cycle lengths
-- Revenue Leakage = SUMX across filtered won deals comparing deal value to invoiced value
-- Total Won Value = CALCULATE with SUM filtered to Won_Flag = Yes
-
-## Make.com Automation — How It Works
-
-**What it does**
-This automation monitors a Google Sheet that acts as a live sales pipeline. Every time it runs, it searches for any deal where the Days_Since_Last_Activity column shows a value greater than 14. For every deal that meets that condition, it automatically sends a formatted email alert to the assigned rep containing the full deal context — company name, pipeline stage, deal value, region, and how many days it has been inactive — along with a clear call to action.
-
-Without this automation, a Sales Ops Analyst would need to manually check every open deal in the pipeline each day to identify which ones have gone cold. At 458 deals that would take 2 to 3 hours per week. The automation does it in seconds.
-
-**View the live scenario**
-You can view the automation blueprint here:
-[View Make.com Scenario](https://us2.make.com/public/shared-scenario/32zkznbEZbG/integration-google-sheets-gmail)
-
-**How to use it yourself**
-If you want to run this automation with your own data, follow these steps:
-
-1. Click the scenario link above
-2. Click **Save a copy** to add it to your own Make.com account — you will need a free Make.com account to do this
-3. Open the **Google Sheets** module and reconnect it to your own Google account
-4. Point it at your own Google Sheet — the sheet needs a column called **Days_Since_Last_Activity** containing numbers
-5. Set the filter condition to **Days_Since_Last_Activity — Greater than — 14** or change 14 to whatever threshold suits your team
-6. Open the **Gmail** module and reconnect it to your own Gmail account
-7. Update the **To** field with your own email address for testing
-8. Click **Run once** to test — check your inbox for the alert email
-9. Once confirmed working, set the schedule to run daily at 8am
-
-**How to change the email recipient**
-By default the automation sends to a test email address. To send to the actual rep assigned to each deal, the Rep_Name or Rep_Email field from your Google Sheet needs to be mapped to the To field in the Gmail module. If your sheet has a Rep_Email column, drag that field into the To field inside the Gmail module settings.
-
-**Blueprint file**
-The full automation blueprint is included in this repository as a JSON file. You can import it directly into Make.com by going to your Make.com dashboard, clicking Create a new scenario, and selecting Import Blueprint.
+## Overview
+This project walks through a full Sales Operations workflow using a synthetic UK B2B sales pipeline. Starting from a raw CRM export with 650 opportunities, the work covers everything from data cleaning and validation through to an interactive Power BI dashboard and a live automated alert system built in Make.com. The goal was straightforward - take messy, unreliable data and turn it into something a sales leader could actually use to make decisions.
 
 ## Dashboard Preview
-![Dashboard](screenshots/powerbi-dashboard.png)
+
+![Sales Pipeline Dashboard](https://github.com/atreyeed01/sales-ops-portfolio/blob/8ebc7a8164507ffb9546df588173208f11640a5d/project-1-pipeline-analysis/Powerbi%20dashboard.png)
 
 ## Automation Preview
-![Make.com Workflow](screenshots/make-workflow.png)
-![Stale Deal Alert Email](screenshots/stale-deal-email.png)
 
-## Author
-Atreyee Deb
-[LinkedIn](www.linkedin.com/in/atreyeedeb)
+![Make.com Workflow](https://github.com/atreyeed01/sales-ops-portfolio/blob/8ebc7a8164507ffb9546df588173208f11640a5d/project-1-pipeline-analysis/Sales%20Pipeline%20automation.png)
+
+![Stale Deal Alert Email](https://github.com/atreyeed01/sales-ops-portfolio/blob/8ebc7a8164507ffb9546df588173208f11640a5d/project-1-pipeline-analysis/Automated_Email_Stale_Deal_Alert.png)
+
+## Project Objectives
+
+- Clean and validate a raw CRM export of 650 opportunities before any analysis could run.
+- Identify and document every data quality issue with its commercial impact.
+- Build a segmented analysis covering pipeline stage, region, product, and rep performance.
+- Create an interactive Power BI dashboard that sales leadership could use in a Monday morning review.
+- Automate stale deal monitoring so reps get alerted automatically, without a manual check needed.
+
+## Dataset
+The dataset contains 650 synthetic sales opportunities from January 2024 to March 2025, across 24 fields including pipeline stage, sales rep, deal value, industry, region, product line, lead source, cycle length, win/loss flag, and invoiced value. It was built to reflect a realistic UK mid-market B2B pipeline -including the kind of data quality problems that build up in a CRM that has been running without proper governance.
+
+## PROCESS
+
+## Data Validation
+Before touching anything, all 24 columns were reviewed to understand what each field contained and what a clean record should look like. Eight categories of data quality issues were identified across the dataset - from missing deal values and incorrect industry labels entered by reps, to stale deals with no activity for 30 days or more and revenue gaps where invoiced amounts fell below the contracted value.
+
+## Data Cleaning
+A Company Master Reference file was used with VLOOKUP to identify and correct 84 rows where reps had entered the wrong industry classification. Flag columns were built for every issue found. A separate Clean_Data sheet was created by removing unreliable records - 243 rows in total - leaving 458 clean opportunities for analysis.
+
+## Analysis
+Nine headline KPIs were calculated including total pipeline value, weighted forecast, win rate, average deal value, average cycle length, and total revenue leakage. The analysis was then broken down across four dimensions - pipeline by stage, pipeline by region, pipeline by product, and rep-level performance, to surface the patterns behind the numbers.
+
+## Dashboard
+A single-page interactive Power BI dashboard was built with four KPI cards, five charts, and three slicers filtering by region, product line, and deal tier. DAX measures were written for win rate, average cycle length, revenue leakage, and total won value per rep.
+
+## Automation
+A Make.com workflow was built connecting a Google Sheet pipeline tracker to Gmail. Every time it runs, it searches for deals with no activity in more than 14 days and sends a formatted alert email to the assigned rep with full deal context - company, stage, value, region, and days inactive, along with a clear prompt to take action.
+
+## Key Findings
+37% of the original CRM data had quality issues before any analysis could run
+EMEA deals take an average of 217 days to close versus 117 days for UK deals, an 85% difference that makes regional forecasting unreliable when treated equally
+Analytics Suite has a Discovery stage bottleneck, averaging 184 days to close versus 154 days for the fastest product in the portfolio
+Win rates range from 11% to 40% across the 15-rep team, a gap that territory and deal mix alone do not explain
+£121,069 in contracted revenue was invoiced below the agreed deal value across 19 closed won deals
+Aisha Okafor leads on both win rate at 40% and total won value at £0.95M. Emma Clarke, Nadia Kowalski, and Tom Nguyen are all below 15% win rate and flagged for coaching review
+
+## Recommendations
+Stop forecasting EMEA and UK on the same timeline as EMEA deals take nearly twice as long and treating them equally overstates near-term revenue
+Pull the 19 leakage deals and check them against original contracts up to £121K in contracted revenue is sitting there uncollected
+The 24 zombie deals need a decision this week as either a rep picks up the phone or the deal gets marked Closed Lost
+Initiate a coaching review for Emma Clarke, Nadia Kowalski, and Tom Nguyen based on win rate data, closing the gap to team average could add £300K to £500K in annual revenue
+Investigate the Analytics Suite Discovery bottleneck - scoping templates or deal desk support could take 30 days off the cycle and accelerate over £1M in pipeline
+Make Lead Source and Deal Value mandatory fields in Salesforce at Qualified stage, this project took over 2 hours of cleaning time just to fix what should have been entered correctly from day one
+
+## Make.com Automation
+The automation monitors the sales pipeline Google Sheet daily. Any deal where no activity has been logged in more than 14 days triggers an automatic email alert to the assigned rep. The email includes the full deal context - company name, stage, deal value, region, and days inactive, so the rep has everything they need to act without opening the CRM.
+Without this, a Sales Ops Analyst would need to manually check every open deal each day to find which ones have gone cold. At 458 deals that is 2 to 3 hours of work per week. The automation does it in seconds.
+
+[View Live Scenario](https://us2.make.com/public/shared-scenario/32zkznbEZbG/integration-google-sheets-gmail)
+
+## How to use it yourself
+1. Click the scenario link above
+2. Click Save a copy to add it to your own Make.com account
+3. Connect the Google Sheets module to your own Google account
+4. Point it at your own Google Sheet - it needs a column called Days_Since_Last_Activity containing numbers
+5. Set the filter to Days_Since_Last_Activity greater than 14
+6. Connect the Gmail module to your own Gmail account
+7. Update the To field with your email address for testing
+8. Click Run once to test - check your inbox for the alert email
+9. Once confirmed working set the schedule to run daily at 8am
+
+## Blueprint file
+The full automation blueprint is included in this repository as a 
+JSON file. Import it into Make.com by going to your dashboard, 
+clicking Create a new scenario and selecting Import Blueprint.
+
+## Tools Used
+
+- **Microsoft Excel** - data cleaning, validation, standardisation and analysis
+- **Power BI** - interactive dashboard with DAX measures and slicers
+- **Make.com** - automated stale deal alert workflow
+- **SQL** - analytical queries written against CRM-style data
+- **Google Sheets** - live data source for the Make.com automation
+
+## Files in This Repository
+
+- `data/` - raw CRM export and cleaned dataset in Excel
+- `dashboard/` - Power BI .pbix dashboard file
+- `summary/` - Executive Summary Word document
+- `screenshots/` - dashboard and automation screenshots
+- `Integration_Google_Sheets__Gmail_blueprint.json` -  Make.com automation blueprint, import this into Make.com to clone the workflow
+
+Author 
+Atreyee Deb 
+[LinkedIn](https://www.linkedin.com/in/atreyee-deb) 
 Birmingham, UK
