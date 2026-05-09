@@ -37,6 +37,8 @@ Nine headline KPIs were calculated including total pipeline value, weighted fore
 ## Dashboard
 A single-page interactive Power BI dashboard was built with four KPI cards, five charts, and three slicers filtering by region, product line, and deal tier. DAX measures were written for win rate, average cycle length, revenue leakage, and total won value per rep.
 
+[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/09c5413f-d5bd-4b32-a074-25a04409f4a6/d4e92190d8e87003a8a9?experience=power-bi)
+
 ## Automation
 A Make.com workflow was built connecting a Google Sheet pipeline tracker to Gmail. Every time it runs, it searches for deals with no activity in more than 14 days and sends a formatted alert email to the assigned rep with full deal context - company, stage, value, region, and days inactive, along with a clear prompt to take action.
 
