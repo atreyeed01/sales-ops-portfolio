@@ -9,9 +9,8 @@ This project walks through a full Sales Operations workflow using a synthetic UK
 
 ## Automation Preview
 
-![Make.com Workflow](https://github.com/atreyeed01/sales-ops-portfolio/blob/8ebc7a8164507ffb9546df588173208f11640a5d/project-1-pipeline-analysis/Sales%20Pipeline%20automation.png)
+![Make.com Workflow](https://github.com/atreyeed01/sales-ops-portfolio/blob/0b10c67d332f3ccca2ed6fb4ca0a0efe1285aad4/project-1-pipeline-analysis/Automated_Email_Stale_Deal_Alert_.png)
 
-![Stale Deal Alert Email](https://github.com/atreyeed01/sales-ops-portfolio/blob/8ebc7a8164507ffb9546df588173208f11640a5d/project-1-pipeline-analysis/Automated_Email_Stale_Deal_Alert.png)
 
 ## Project Objectives
 
