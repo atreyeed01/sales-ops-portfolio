@@ -8,7 +8,7 @@ This automation fixes that. Every Monday morning at 8am it runs automatically, r
 
 ![Working Sheet](https://github.com/atreyeed01/sales-ops-portfolio/blob/473285bfaa871e70047e80fad9905a61aec7f51d/Weekly-Margin-Risk-Report/Working%20Sheet.png)
 
-Orders were being processed below acceptable margin thresholds with no alerts and no review process. By the time anyone noticed, the revenue impact had already compounded across weeks of unchecked discounting
+Orders were being processed below acceptable margin thresholds with no alerts and no review process. By the time anyone noticed, the revenue impact had already compounded across weeks of unchecked discounting.
 
 ## The Solution
 A scheduled Power Automate flow that runs every Monday morning at 8am without any manual input
