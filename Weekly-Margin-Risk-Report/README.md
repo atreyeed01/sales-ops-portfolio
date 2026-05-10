@@ -101,3 +101,8 @@ MarginTrend in the Products table should contain the word Declining - the flow f
 ## GDPR
 
 All data used in this project is entirely synthetic and GDPR compliant - no real customer or business data was used at any point. The dataset was built to mirror realistic order patterns in the UK building materials sector.
+
+Author 
+Atreyee Deb 
+[LinkedIn](https://www.linkedin.com/in/atreyee-deb) 
+Birmingham, UK
