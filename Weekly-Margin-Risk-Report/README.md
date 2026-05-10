@@ -6,7 +6,7 @@ This automation fixes that. Every Monday morning at 8am it runs automatically, r
 
 ## Working Sheet
 
-![Working Sheet](https://github.com/atreyeed01/sales-ops-portfolio/blob/ba7b5dd1d2e7daca957c1d226245faedcebc8b4f/Weekly-Margin-Risk-Report/Weekly%20Margin%20Risk%20Report_20260510144718.zip)
+![Working Sheet](https://github.com/atreyeed01/sales-ops-portfolio/blob/473285bfaa871e70047e80fad9905a61aec7f51d/Weekly-Margin-Risk-Report/Working%20Sheet.png)
 
 Orders were being processed below acceptable margin thresholds with no alerts and no review process. By the time anyone noticed, the revenue impact had already compounded across weeks of unchecked discounting
 
