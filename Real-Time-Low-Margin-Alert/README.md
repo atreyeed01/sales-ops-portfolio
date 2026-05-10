@@ -1,6 +1,6 @@
 ## Overview
 
-The Real-Time Low Margin Alert started with a simple observation — not every order that comes in is a good order. Some are priced too low, some are discounted beyond what the margin can absorb. But without a live signal, there was no way to know until the invoice had already gone out.
+The Real-Time Low Margin Alert started with a simple observation - not every order that comes in is a good order. Some are priced too low, some are discounted beyond what the margin can absorb. But without a live signal, there was no way to know until the invoice had already gone out.
 
 In a busy internal sales environment, reps make pricing decisions on the spot to win jobs. By the time management reviewed margin performance, the deals were done, the invoices were raised and the margin was gone. There was no trigger, no threshold and no alert in place.
 
