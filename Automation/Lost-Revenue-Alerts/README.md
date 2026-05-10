@@ -83,6 +83,10 @@ Click Test, select Manually, and run the flow to check everything is working. On
 
 ![Lost Revenue Alerts Flow.zip](https://github.com/atreyeed01/sales-ops-portfolio/blob/348d20e4af0634d1eb4ca45752ac32fcfa036eb7/Automation/Lost-Revenue-Alerts/Loss_Revenue_Alert_20260510000435.zip)
 
+## Full Report
+
+![Full Report](https://github.com/atreyeed01/sales-ops-portfolio/blob/5cefc3cf57d0ef0a7e69d26093fe3dee08228ec5/Automation/Lost-Revenue-Alerts/Lost%20Revenue%20Alerts%20Report.pdf)
+
 
 ## Technical Challenges
 SharePoint encodes column names internally  diagnosed using the REST API and fixed the filter query accordingly
