@@ -16,16 +16,15 @@ A scheduled Power Automate flow that runs every Monday morning without any manua
 Automatically flags any customer inactive for 30 or more days, updates their risk status, and emails the sales rep
 Creates a high importance follow-up task in Outlook for every at-risk account
 
-## power_automate_full
+## power automate
 
-![power_automate_full](https://github.com/atreyeed01/sales-ops-portfolio/blob/b58987d344ccb088d7247981a5861ce0c6aa1db7/Automation/Lost-Revenue-Alerts/Power%20Automate%20lost%20revenus%20flow.png)
+![power_automate](https://github.com/atreyeed01/sales-ops-portfolio/blob/b58987d344ccb088d7247981a5861ce0c6aa1db7/Automation/Lost-Revenue-Alerts/Power%20Automate%20lost%20revenus%20flow.png)
 
 ## Tools Used
 Microsoft Power Automate
 SharePoint (used as a stand-in CRM)
 Outlook Tasks
 Microsoft 365
-
 
 ## How It Works
 Flow triggers every Monday morning on a scheduled recurrence
@@ -36,6 +35,15 @@ Checks whether DaysSinceLastOrder exceeds 30 days
 Sends an email alert to the sales rep for every at-risk account
 Creates a follow-up task in Outlook marked as high importance
 
+## To do tasks Flow
+
+![To do tasks Flow](https://github.com/atreyeed01/sales-ops-portfolio/blob/c4299791c63c44a4d025a8fe84632a94e84f2b5a/Automation/Lost-Revenue-Alerts/To%20do%20tasks%20flow.png)
+
+## Automated Email Alert
+
+![Automate Email Alert](https://github.com/atreyeed01/sales-ops-portfolio/blob/c4299791c63c44a4d025a8fe84632a94e84f2b5a/Automation/Lost-Revenue-Alerts/Automaed%20Email.png)
+
+
 ## Key Metrics
 30 days - inactivity threshold before an alert triggers
 10 accounts - flagged and actioned every Monday
@@ -45,10 +53,6 @@ Creates a follow-up task in Outlook marked as high importance
 SharePoint encodes column names internally  diagnosed using the REST API and fixed the filter query accordingly
 DaysSinceLastOrder was returned as text rather than a number,  resolved using an int() conversion in the condition step
 The date calculation expression required the correct internal loop name from Power Automate - identified via the flow code view
-
-## What I Would Build Next
-Route alerts to each individual rep so they only receive their own accounts
-Connect LastOrderDate directly to the ERP so the list updates automatically when a new order is placed
 
 ## GDPR
 All data is entirely synthetic and GDPR compliant, no real customer or business data was used at any point.
