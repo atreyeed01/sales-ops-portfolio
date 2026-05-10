@@ -1,6 +1,6 @@
 ## Overview
 
-The Weekly Margin Risk Report started with a simple observation - margin leakage was happening silently every week and nobody was seeing it until month end. In a busy internal sales environment, reps give discounts on the spot to win jobs, products get sold below cost, and customers quietly become unprofitable. By the time the month-end report landed, the invoices had already gone out and the damage was done.
+The Weekly Margin Risk Report started with a simple observation, margin leakage was happening silently every week and nobody was seeing it until month end. In a busy internal sales environment, reps give discounts on the spot to win jobs, products get sold below cost, and customers quietly become unprofitable. By the time the month-end report landed, the invoices had already gone out and the damage was done.
 
 This automation fixes that. Every Monday morning at 8am it runs automatically, reads three data tables from SharePoint covering orders, customers and products, filters for at-risk records across four risk categories, and sends one clean formatted report straight to management. No manual work, no waiting until month end, no margin leakage going unnoticed. Management starts every week already knowing where the risk is.
 
