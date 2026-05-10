@@ -45,9 +45,44 @@ Creates a follow-up task in Outlook marked as high importance
 
 
 ## Key Metrics
-30 days - inactivity threshold before an alert triggers
-10 accounts - flagged and actioned every Monday
-0 hours - manual effort required per week
+
+**30 days**
+This is the threshold the automation uses to decide whether a customer is at risk. Any account that has not placed an order in more than 30 days is automatically flagged. The 30 day window was chosen to reflect realistic repeat order cycles in the building materials sector, where customers typically reorder every two to six weeks depending on their project pipeline.
+
+**10 accounts**
+Based on the synthetic dataset of 20 customers, 10 accounts fall into the at-risk category every Monday. This represents 50 percent of the account base being monitored and actioned automatically each week.
+
+**0 hours**
+Once the flow is live, no one needs to do anything. No manual reviews, no checking spreadsheets, no remembering who to chase. The entire process runs and completes without any human input.
+
+## How to Use This Flow
+
+The exported Power Automate package is included in this repository as a zip file. Follow these steps to get it running in your own environment.
+**Step 1** — Download the zip file
+Download the Power Automate package zip file from this repository.
+
+**Step 2** — Import into Power Automate
+Go to flow.microsoft.com and sign in with your Microsoft 365 account. Click My Flows in the left menu, then click Import and select Import Package. Upload the zip file and click Upload.
+
+**Step 3** — Connect your accounts
+During the import process you will be asked to connect your SharePoint and Outlook accounts. Click Select during import next to each one and sign in with your Microsoft 365 credentials.
+
+**Step 4** — Create your SharePoint list
+Create a SharePoint list with these eight columns exactly as named — CustomerID, CustomerName, RepName, LastOrderDate, DaysSinceLastOrder, Segment, TotalSpend, Status. Make sure DaysSinceLastOrder is set to Number type and LastOrderDate is set to Date type.
+
+**Step 5** — Update the flow connections
+Once imported, open the flow and edit the Get Items and Update Item steps to point to your own SharePoint site and list name.
+
+**Step 6** — Update the email address
+In the Send an Email step, replace the existing email address with your own so alerts are delivered to the right person.
+
+**Step 7** — Test and turn on
+Click Test, select Manually, and run the flow to check everything is working. Once confirmed, save and turn the flow on.
+
+## Lost-Revenue-Alerts-Flow.zip
+
+![Lost Revenue Alerts Flow.zip](https://github.com/atreyeed01/sales-ops-portfolio/blob/348d20e4af0634d1eb4ca45752ac32fcfa036eb7/Automation/Lost-Revenue-Alerts/Loss_Revenue_Alert_20260510000435.zip)
+
 
 ## Technical Challenges
 SharePoint encodes column names internally  diagnosed using the REST API and fixed the filter query accordingly
