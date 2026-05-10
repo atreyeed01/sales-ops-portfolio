@@ -1,6 +1,6 @@
 ## Overview
 
-Lost Revenue Alerts started with a simple observation - customer accounts were going quiet and nobody was doing anything about it, not because reps did not care, but because there was no system telling them it was happening. In a busy internal sales environment, managing a large account base while handling daily enquiries and orders leaves very little time to manually check who has stopped ordering. By the time someone noticed a customer had gone quiet, it was usually too late to recover them. 
+Lost Revenue Alerts started with a simple observation, customer accounts were going quiet and nobody was doing anything about it, not because reps did not care, but because there was no system telling them it was happening. In a busy internal sales environment, managing a large account base while handling daily enquiries and orders leaves very little time to manually check who has stopped ordering. By the time someone noticed a customer had gone quiet, it was usually too late to recover them. 
 
 This automation fixes that. Every Monday morning it runs automatically, checks every customer account, works out how long each one has been inactive, updates their risk status in SharePoint, and for anyone who has not ordered in 30 or more days it sends the sales rep an email and creates a follow-up task in Outlook. No manual work, no accounts missed, no revenue slipping away unnoticed. The rep starts every week already knowing who needs a call.
 
