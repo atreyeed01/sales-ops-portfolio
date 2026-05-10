@@ -40,7 +40,9 @@ Built a six section analysis sheet covering rep accuracy, segment accuracy, quar
 ## Dashboard
 Four KPI cards, five charts, and three slicers built in Power BI with six DAX measures powering all visuals dynamically. Charts cover rep accuracy, quarterly trend, segment comparison, and model versus rep benchmarking.
 
-![View Dashboard](https://app.powerbi.com/groups/me/reports/b7104be9-bae2-4f6e-aaba-339feb16cfed/e1e592ee4b00dad31d26?experience=power-bi)
+## View Dashboard
+
+[View Live Dashboard](https://app.powerbi.com/groups/me/reports/b7104be9-bae2-4f6e-aaba-339feb16cfed/e1e592ee4b00dad31d26?experience=power-bi)
 
 ## Automation
 A Power Automate scheduled flow runs every Monday at 08:00, retrieves five live metrics from Excel on OneDrive using Get a row actions, and sends a formatted HTML forecast summary email to leadership with dynamic figures that update automatically each week.
